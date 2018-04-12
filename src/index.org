@@ -1,0 +1,97 @@
+#+TITLE: Manual for internship activities
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-12 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document details about the steps that are to be
+  followed by the students to take part in the Virtual Labs
+  internship activity. 
+* Motivation
+  This internship is conducted to improve Virtual Labs and
+  have massive contribute to open source community. And
+  also to provide an internship opportunity for the students
+  in IIIT-Hyderabad, one of the premier institutes in India.
+* Steps to be followed by the students for raising issues
+** Steps to creating a new git repository
+   1) Login to your github profile and click on repositories tab 
+   2) Click New button(green coloured) for creating new repository.
+   3) Type Repository name as "virtual-labs-internship"
+   3) Add a description of the repository(optional).
+   4) choose "Public".
+   5) Select Initialize this repository with a README. 
+   6) Click Create repository.
+** Parameters to be considered while raising the issues
+   a. Operational defects : Broken links, error pages,
+   content not visible, buttons not working and any others.
+
+   b. Functional defects : Provided features are not working
+   as per the expectations.
+
+   c. Simulations defects :
+     - Working Status
+     - Quality of simulator
+     - Analysis of output
+     - Simulations have logical flaws
+
+   d. Enhancements: Quality and clarity of the content
+   
+   e. New content suggested by the students are also
+   welcomed.
+   
+   f. Every defect/bug logged must follow the SMART
+   ideology - Specific, Measurable, Attainable, Realistic
+   and Timely
+
+** Template for creating issues
+*** Naming convention to be followed while creating issues
+    bug_<lab_name>_<in which sub section of experiment the bug is detected>
+    for example: bug_problem-solving-simulation
+
+*** Description of issue includes the following
+    - Defect description
+    - Expected result
+    - Actual result
+    - Screen shot
+  
+** Labels and severity
+   *** Severity of defects
+    At any given time a defect should only have one of the
+    severity levels as described below. To change the
+    severity of a defect, the existing label of the defect
+    should be unchecked and the new severity label should be
+    checked.
+
+    - S1 : This label indicates that the defect affects
+      critical functionality or critical data. There are no
+      workarounds to get to this functionality. Example:
+      Prevention of user interaction, corruption of
+      database, unfaithful to the semantics of interaction
+      and redirection to the error page.
+
+    - S2 : This label indicates that the defect affects
+      major functionality or major data. It could have a
+      workaround but is not obvious and is difficult like
+      broken links and a field view being inconsistent with
+      its specifications. Example: In a form if there is a
+      field which is editable but it is not allowing the
+      user to edit it.
+
+    - S3 : This label indicates that the defect affects
+      minor functionality or non-critical data. It could
+      have an easy workaround. Example: Visual imperfections
+      like spelling and grammar, alignment, inconsistent
+      terminology, colour, shapes and fonts(css properties).
+
+** Time limit for raising issues
+   The logging defects by students will be  from 30th April onwards till 5th May , 2018
+* Perks and Prize money
+  Top students will be awarded with cash award and all the
+  students would be given a participation certificate.
+* Conclusion
+  Based on the bugs raised the students would be given an
+  opportunity to work as a intern in virtual labs.
+  
