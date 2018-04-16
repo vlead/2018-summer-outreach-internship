@@ -7,28 +7,46 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document details about the steps that are to be
-  followed by the students to take part in the Virtual Labs
-  internship activity. 
+  This document describes the detailed steps to be followed
+  by the students to participate in the Virtual Labs
+  internship program.
+
 * Motivation
-  This internship is conducted to improve Virtual Labs and
-  have massive contribute to open source community. And
-  also to provide an internship opportunity for the students
-  in IIIT-Hyderabad, one of the premier institutes in India.
-* Bugs raising template
+  This internship program is conducted to motivate students
+  from the Nodal center colleges to contribute towards this
+  mission mode project run by MHRD. Students would be
+  contributing towards the open source development community
+  as well as improve the Virtual Labs. The motivation for us
+  behind conducting such intenrship program is to do
+  outreach activities for the Virtual Labs and improve its
+  reach to as many colleges as possible.
+
+* Issue/Bug logging process
+  The below sections describe the entire process of raising
+  lab issues and what template needs to be followed for the
+  same by the interested students.
+
 ** Setup of testing environment 
   [[https://vlabs-about.vlabs.ac.in/#sec-4][Click here]] and follow the document to setup the
   development environment.
+
 ** Steps to be followed by the students for raising issues
-** Steps to creating a new git repository
-   1) Login to your github profile and click on repositories tab 
-   2) Click New button(green coloured) for creating new repository.
+   An interested student needs to test the IIIT Hyderabad
+   labs (20 labs). The testing process would be to carried
+   out to find the problems with the labs. When any such
+   issue is identified
+
+*** Steps to create a new github repository
+   1) Login to your github profile and click on repositories
+      tab
+   2) Click New button(green coloured) for creating new
+      repository.
    3) Type Repository name as "virtual-labs-internship"
    3) Add a description of the repository(optional).
    4) choose "Public".
    5) Select Initialize this repository with a README. 
    6) Click Create repository.
-** Parameters to be considered while raising the issues
+*** Parameters to be considered while raising the issues
    a. Operational defects : Broken links, error pages,
    content not visible, buttons not working and any others.
 
@@ -50,10 +68,10 @@
    ideology - Specific, Measurable, Attainable, Realistic
    and Timely
 
-** Template for creating issues
 *** Naming convention to be followed while creating issues
-    bug_<lab_name>_<in which sub section of experiment the bug is detected>
-    for example: bug_problem-solving-simulation
+    bug_<lab_name>_<in which sub section of experiment the
+    bug is detected> for example:
+    bug_problem-solving-simulation
 
 *** Description of issue includes the following
     - Defect description
@@ -62,16 +80,14 @@
     - Screen shot
   
 ** Labels and severity
-*** Labels
+    - Lab name : This label indicates that in which lab the
     A issue would contain a brief description and a
     hyper-link to its corresponding test case file. It could
     also contain screen shots for easier
     comprehension. Every defect would contain labels to
     describe its state, severity and category. The following
     are the attributes that would be attached to each
-    defect:
-    - Lab name : This label indicates that in which lab the
-    defect is detected.
+    defect: defect is detected.
 
     - Experiment name : This label indicates that in which 
     experiment the defect is detected.
@@ -84,9 +100,10 @@
     
     - Severity : At any given time a issue should only have
     one of the severity levels as described below. To change
-    the severity of a issue, the existing label of the
-    issue should be unchecked and the new severity label
-    should be checked.
+    the severity of a issue, the existing label of the issue
+    should be unchecked and the new severity label should be
+    checked.
+
       1) S1 : This label indicates that the issue affects
       critical functionality or critical data. Example:
       Prevention of user interaction, corruption of
@@ -111,12 +128,15 @@
     of a defect, the current status label of the defect
     should be unchecked and the new status label should be
     checked.
+
     1) Open : This label indicates that when a issue is
     logged and posted for the first time, it would be
     labelled as 'Open'.
+
     2) In Progress : This label indicates that Open issues
     while being worked upon by the developer would be
     labelled as 'InProgress'.
+
     3) Fixed : This label indicates that the issue has been
     fixed by the developers in their lab GitHub repository
     but a release has not been for the hosting. Only the
@@ -125,27 +145,32 @@
     release notes when they make a release containing these
     fixes. Test engineers would test only resolved and open
     defects.
+
     4) Resolved : This label indicates that when 
     developers make necessary code changes and verifies the
     changes then they can label the defect as
     ¡®Resolved¡¯. The developers as well as the lab owners can
     mark the issue as Resolved.
-     5) Reopen : This label indicates that if a resolved
+
+    5) Reopen : This label indicates that if a resolved
     defect surfaces during testing, the test engineer would
     label it as 'Reopen'.
-     6) Closed : This label indicates that Resolved defects
+
+    6) Closed : This label indicates that Resolved defects
     would be labelled as 'Closed' by the test engineers
     after they pass the tests. This label means that the
     defect is resolved, tested and approved.
 
 ** List of issues that will not be considered as valid
-   - Redirection link of Onclick of full screen button on experiment
-     simulation would.
+   - Full Screen button on experiment simulations doesnt
+     open in the new tab, instead we have to copy the URL in
+     a new browser window in order to open the
+     simulations. This is a known issue to us.
    - 
-** Time limit for raising issues
-   The logging defects by students will be  from 30th April
-   onwards till 5th May , 2018 
-** Perks and Prize money
+*** Time limit for raising issues
+   The logging defects by students will be from 30th April
+   onwards till 5th May , 2018
+*** Perks and Prize money
   Top students will be awarded with cash award and all the
   students would be given a participation certificate.
 * Validation of issues
