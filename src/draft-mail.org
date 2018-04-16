@@ -1,0 +1,90 @@
+#+TITLE: outreach Intership Program 
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-17 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Draft mail calling for interns
+Dear Students,
+
+
+Virtual Labs is offering internships for the students who
+are seeking an opportunity to get an insight of the software
+development processes to help them improve their problem
+solving skills.
+
+We would request all the interested students to fill the
+expression of interest form below.
+
+[[https://docs.google.com/forms/d/e/1FAIpQLSdhl1KOzr_v0Sz15bVxKHuYdlluODnAKku11W1WDWLft5JgPg/viewform][Expression of interest]]  
+
+
+The deadline for applications for internships is Apr 24th 2018.
+
+Sincerely,
+
+Venkatesh Choppella, Ph.D
+Associate Professor
+IIIT Hyderabad
+Gachibowli, Hyderabad 500 032
+http://pascal.iiit.ac.in/~choppell
+
+
+
+
+
+-- 
+Regards
+Priya
+
+* Draft of student participation for internship
+
+Dear Student,
+
+Welcome to Virtual Labs - BUGATHON @ IIITH !!!
+
+We are delighted that you are interested to participate in
+the selection process of Virtual Labs internship
+program. This has been developed for students to attain
+practical training and hands-on real world experience that
+will help them meet their educational goals and prepare them
+for a professional career.
+
+The following are the instructions to be followed by the
+students to participate in the shortlisting process of
+internship.
+
+
+1) The students would be shortlisted based on the number of
+   [[https://help.github.com/articles/about-issues/][issues]] raised in their gitlab profile for the 20
+   IIIT-Hyderabad labs. Based on the issues raised the
+   students would be given an opportunity to work as a
+   intern in virtual lab.
+
+2) [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org#setup-of-testing-environment][Click here]] to see the detailed steps for the issue
+   raising process and setting up the local testing
+   environment.
+
+3) Time limit for logging defects by students would be from
+   30th April till 5th May , 2018.
+
+4) Top 10 students will be awarded with cash prize based on
+   the issues(severity level, functionality defects
+   identified, proposal for enhancements and logical flaws
+   identified).
+
+5) Selected students would get an opportunity to attend a 3
+   days boot camp at IIIT-Hyderabad headed by our esteemed
+   mentors. The interns would be appraised with weekly cash
+   awards and vouchers who perform exceptionally well during
+   the process of resolving issues. Top 3 interns at the end
+   of the program would also be awarded with the cash
+   prizes.
+ 
+6) All the interns would be given a participation
+   certificate.
+
+
+
