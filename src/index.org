@@ -7,20 +7,28 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document details about the steps that are to be
-  followed by the students to take part in the Virtual Labs
-  internship activity. 
+  This document describes the detailed steps to be followed by the
+  students to participate in the Virtual Labs internship program.
 * Motivation
-  This internship is conducted to improve Virtual Labs and
-  have massive contribute to open source community. And
-  also to provide an internship opportunity for the students
-  in IIIT-Hyderabad, one of the premier institutes in India.
-* Bugs raising template
+  This internship program is conducted to motivate students from the
+  Nodal center colleges to contribute towards this mission mode
+  project run by MHRD. Students would be contributing towards the open
+  source development community as well as improve the Virtual
+  Labs. The motivation for us behind conducting such intenrship
+  program is to do outreach activities for the Virtual Labs and
+  improve its reach to as many colleges as possible.
+* Issue/Bug logging process
+  The below sections describe the entire process of raising lab issues
+  and what template needs to be followed for the same by the
+  interested students.
 ** Setup of testing environment 
   [[https://vlabs-about.vlabs.ac.in/#sec-4][Click here]] and follow the document to setup the
   development environment.
 ** Steps to be followed by the students for raising issues
-** Steps to creating a new git repository
+   An interested student needs to test the IIIT Hyderabad labs (20
+   labs). The testing process would be to carried out to find the
+   problems with the labs. When any such issue is identified
+*** Steps to create a new github repository
    1) Login to your github profile and click on repositories tab 
    2) Click New button(green coloured) for creating new repository.
    3) Type Repository name as "virtual-labs-internship"
@@ -28,7 +36,7 @@
    4) choose "Public".
    5) Select Initialize this repository with a README. 
    6) Click Create repository.
-** Parameters to be considered while raising the issues
+*** Parameters to be considered while raising the issues
    a. Operational defects : Broken links, error pages,
    content not visible, buttons not working and any others.
 
@@ -50,7 +58,7 @@
    ideology - Specific, Measurable, Attainable, Realistic
    and Timely
 
-** Template for creating issues
+*** Template for creating issues
 *** Naming convention to be followed while creating issues
     bug_<lab_name>_<in which sub section of experiment the bug is detected>
     for example: bug_problem-solving-simulation
@@ -61,7 +69,7 @@
     - Actual result
     - Screen shot
   
-** Labels and severity
+*** Labels and severity
 *** Severity of defects
     At any given time a defect should only have one of the
     severity levels as described below. To change the
@@ -106,14 +114,15 @@
     - Category : Content, UI, functionality
     - Severity
     - Status
-** List of issues that will not be considered as valid
-   - Redirection link of Onclick of full screen button on experiment
-     simulation would.
+*** List of issues that will not be considered as valid
+   - Full Screen button on experiment simulations doesnt open in the
+     new tab, instead we have to copy the URL in a new browser window
+     in order to open the simulations. This is a known issue to us.
    - 
-** Time limit for raising issues
+*** Time limit for raising issues
    The logging defects by students will be  from 30th April
    onwards till 5th May , 2018 
-** Perks and Prize money
+*** Perks and Prize money
   Top students will be awarded with cash award and all the
   students would be given a participation certificate.
 * Validation of issues
