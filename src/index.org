@@ -15,10 +15,11 @@
   have massive contribute to open source community. And
   also to provide an internship opportunity for the students
   in IIIT-Hyderabad, one of the premier institutes in India.
-* Setup of testing environment 
+* Bugs raising template
+** Setup of testing environment 
   [[https://vlabs-about.vlabs.ac.in/#sec-4][Click here]] and follow the document to setup the
   development environment.
-* Steps to be followed by the students for raising issues
+** Steps to be followed by the students for raising issues
 ** Steps to creating a new git repository
    1) Login to your github profile and click on repositories tab 
    2) Click New button(green coloured) for creating new repository.
@@ -89,12 +90,34 @@
       like spelling and grammar, alignment, inconsistent
       terminology, colour, shapes and fonts(css properties).
 
+*** Labels
+    A issue would contain a brief description and a
+    hyper-link to its corresponding test case file. It could
+    also contain screen shots for easier
+    comprehension. Every defect would contain labels to
+    describe its state, severity and category. The following
+    are the attributes that would be attached to each
+    defect :
+    - Lab name : This label indicates that from which lab
+      the defect is detected.
+    - Experiment name : This label indicates that from which
+      experiment the defect is detected.
+    - Sections : like introduction, theory, simulation, quiz
+    - Category : Content, UI, functionality
+    - Severity
+    - Status
+** List of issues that will not be considered as valid
+   - Redirection link of Onclick of full screen button on experiment
+     simulation would.
+   - 
 ** Time limit for raising issues
    The logging defects by students will be  from 30th April
    onwards till 5th May , 2018 
-* Perks and Prize money
+** Perks and Prize money
   Top students will be awarded with cash award and all the
   students would be given a participation certificate.
+* Validation of issues
+  
 * Conclusion
   Based on the bugs raised the students would be given an
   opportunity to work as a intern in virtual labs.
