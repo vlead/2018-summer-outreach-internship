@@ -62,34 +62,6 @@
     - Screen shot
   
 ** Labels and severity
-*** Severity of defects
-    At any given time a defect should only have one of the
-    severity levels as described below. To change the
-    severity of a defect, the existing label of the defect
-    should be unchecked and the new severity label should be
-    checked.
-
-    - S1 : This label indicates that the defect affects
-      critical functionality or critical data. There are no
-      workarounds to get to this functionality. Example:
-      Prevention of user interaction, corruption of
-      database, unfaithful to the semantics of interaction
-      and redirection to the error page.
-
-    - S2 : This label indicates that the defect affects
-      major functionality or major data. It could have a
-      workaround but is not obvious and is difficult like
-      broken links and a field view being inconsistent with
-      its specifications. Example: In a form if there is a
-      field which is editable but it is not allowing the
-      user to edit it.
-
-    - S3 : This label indicates that the defect affects
-      minor functionality or non-critical data. It could
-      have an easy workaround. Example: Visual imperfections
-      like spelling and grammar, alignment, inconsistent
-      terminology, colour, shapes and fonts(css properties).
-
 *** Labels
     A issue would contain a brief description and a
     hyper-link to its corresponding test case file. It could
@@ -97,15 +69,75 @@
     comprehension. Every defect would contain labels to
     describe its state, severity and category. The following
     are the attributes that would be attached to each
-    defect :
-    - Lab name : This label indicates that from which lab
-      the defect is detected.
-    - Experiment name : This label indicates that from which
-      experiment the defect is detected.
-    - Sections : like introduction, theory, simulation, quiz
-    - Category : Content, UI, functionality
-    - Severity
-    - Status
+    defect:
+    - Lab name : This label indicates that in which lab the
+    defect is detected.
+
+    - Experiment name : This label indicates that in which 
+    experiment the defect is detected.
+
+    - Sections : In which of the section like introduction, 
+    theory, simulation, quiz the issue is detected.
+
+    - Category : At any given time a issue should only have
+    one of the categories like Content, UI, functionality.
+    
+    - Severity : At any given time a issue should only have
+    one of the severity levels as described below. To change
+    the severity of a issue, the existing label of the
+    issue should be unchecked and the new severity label
+    should be checked.
+      1) S1 : This label indicates that the issue affects
+      critical functionality or critical data. Example:
+      Prevention of user interaction, corruption of
+      database, unfaithful to the semantics of interaction
+      and redirection to the error page.
+
+      2) S2 : This label indicates that the issues affects
+      major functionality or major data. It could have
+      broken links and a field view being inconsistent with
+      its specifications. Example: In a form if there is a
+      field which is editable but it is not allowing the
+      user to edit it.
+
+      3) S3 : This label indicates that the issue affects
+      minor functionality or non-critical data. Example:
+      Visual imperfections like spelling and grammar,
+      alignment, inconsistent terminology, colour, shapes
+      and fonts(css properties).
+
+    - Status : At any given time a issue should only be in
+    one of the below described states. To change the state
+    of a defect, the current status label of the defect
+    should be unchecked and the new status label should be
+    checked.
+    1) Open : This label indicates that when a issue is
+    logged and posted for the first time, it would be
+    labelled as 'Open'.
+    2) In Progress : This label indicates that Open issues
+    while being worked upon by the developer would be
+    labelled as 'InProgress'.
+    3) Fixed : This label indicates that the issue has been
+    fixed by the developers in their lab GitHub repository
+    but a release has not been for the hosting. Only the
+    developers can mark the issue as fixed. They should
+    change the status to resolved and include it in their
+    release notes when they make a release containing these
+    fixes. Test engineers would test only resolved and open
+    defects.
+    4) Resolved : This label indicates that when 
+    developers make necessary code changes and verifies the
+    changes then they can label the defect as
+    ¡®Resolved¡¯. The developers as well as the lab owners can
+    mark the issue as Resolved.
+     5) Reopen : This label indicates that if a resolved
+    defect surfaces during testing, the test engineer would
+    label it as 'Reopen'.
+     6) Closed : This label indicates that Resolved defects
+    would be labelled as 'Closed' by the test engineers
+    after they pass the tests. This label means that the
+    defect is resolved, tested and approved.
+
 ** List of issues that will not be considered as valid
    - Redirection link of Onclick of full screen button on experiment
      simulation would.
