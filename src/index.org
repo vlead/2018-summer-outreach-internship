@@ -27,7 +27,7 @@
 ** Steps to be followed by the students for raising issues
    An interested student needs to test the IIIT Hyderabad labs (20
    labs). The testing process would be to carried out to find the
-   problems with the labs. When any such issue is identified
+   problems with the labs. When any such issue is identified.
 *** Steps to create a new github repository
    1) Login to your github profile and click on repositories tab 
    2) Click New button(green coloured) for creating new repository.
