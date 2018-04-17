@@ -21,57 +21,68 @@
   outreach activities for the Virtual Labs and improve its
   reach to as many colleges as possible.
 
-* Issue/Bug logging process
+* Issue/Bug logging process - Selection of interns
   The below sections describe the entire process of raising
   lab issues and what template needs to be followed for the
   same by the interested students.
 
 ** Setup of testing environment 
-  [[https://vlabs-about.vlabs.ac.in/#sec-4][Click here]] and follow the document to setup the
-  development environment.
+   [[https://vlabs-about.vlabs.ac.in/#sec-4][Click here]] and follow the document to setup the development
+   environment.
 
 ** Steps to be followed by the students for raising issues
 
-   An interested student needs to test the IIIT Hyderabad labs (20
-   labs). The testing process would be to carried out to find the
-   problems with the labs. When any such issue is identified.
+   An interested student needs to test the IIIT Hyderabad labs (27
+   labs). The testing process would be carried out to find the
+   problems with the labs. When any such issue is identified the below
+   process list the steps for logging such issues.
 
 *** Steps to create a new github repository
    1) Login to your github profile and click on repositories
-      tab
-   2) Click New button(green coloured) for creating new
+      tab.
+   2) Click *New* button (green coloured) for creating a new
       repository.
-   3) Type Repository name as "virtual-labs-internship"
-   3) Add a description of the repository(optional).
-   4) choose "Public".
-   5) Select Initialize this repository with a README. 
+   3) Give repository name as "virtual-labs-internship"
+   3) Add a description for the repository.
+   4) Choose "Public" option to make it visible to everyone.
+   5) Select Initialize this repository with a README and give a 2
+      line introduction for the repository.
    6) Click Create repository.
+   After these steps, you repository is ready for the process of
+   raising bugs.
 *** Parameters to be considered while raising the issues
-   a. Operational defects : Broken links, error pages,
-   content not visible, buttons not working and any others.
+    1) Operational defects : Broken links, error pages, content not
+       visible, buttons not working and any others.
 
-   b. Functional defects : Provided features are not working
-   as per the expectations.
+    2) Functional defects : Provided features are not working as per
+       the expectations.
 
-   c. Simulations defects :
-     - Working Status
-     - Quality of simulator
-     - Analysis of output
-     - Simulations have logical flaws
+    3) Simulation defects :
+       - Working Status - Whether the simulation works as per the
+         instructions given. If there are no instructions, scope of
+         providing the same.
+       - Quality of simulator - Whether the simulations could be
+         improved in any way which could make them more engaging for
+         the end users.
+       - Analysis of output - Whether the outputs displayed are
+         correct according to the experiments performed.
+       - Simulations having logical flaws - Many labs have been
+         identified to have logical flaws in the experiment
+         simulations. A great opportunity to resolve them.
 
-   d. Enhancements: Quality and clarity of the content
-   
-   e. New content suggested by the students are also
-   welcomed.
-   
-   f. Every defect/bug logged must follow the SMART
-   ideology - Specific, Measurable, Attainable, Realistic
-   and Timely
+    4) Enhancements: If the quality and clarity of the content is not
+       upto the mark, new content could be suggested where the content
+       to make it more comprehensible. Such issues are always
+       welcomed.
+    
+    5) Every defect/bug logged should follow the SMART ideology -
+       Specific, Measurable, Attainable, Realistic and Timely
 
 *** Naming convention to be followed while creating issues
-    bug_<lab_name>_<in which sub section of experiment the
-    bug is detected> for example:
-    bug_problem-solving-simulation
+    <lab_name>_<experiment_name>_<in which sub section of experiment the
+    bug is detected>
+ 
+    for example: problem-solving_numerical-representation_objective
 
 *** Description of issue includes the following
     - Defect description
@@ -94,9 +105,23 @@
 
     - Sections : In which of the section like introduction, 
     theory, simulation, quiz the issue is detected.
+  
+    - Category : At any time an issue could be either of the two -
+      1) Bug - This refers to the problems existing in the labs. It
+         could be with any section/sub section of an experiment. 
+      2) Enhancement - This category refers to new suggestions for the
+         labs which could improve the lab quality. For e.g. the
+         existing content is not comprehensible, a new content could
+         be suggested for the same.
 
-    - Category : At any given time a issue should only have
-    one of the categories like Content, UI, functionality.
+    - Type of issues :
+
+      At any given time a issue should only be in any one of the
+      types :
+
+      1) Content -
+      2) UI -
+      3) Functionality -
     
     - Severity : At any given time a issue should only have
     one of the severity levels as described below. To change
@@ -177,5 +202,5 @@
   
 * Conclusion
   Based on the bugs raised the students would be given an
-  opportunity to work as a intern in virtual labs.
+  opportunity to work as an intern in virtual labs.
   
