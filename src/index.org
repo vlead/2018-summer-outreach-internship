@@ -32,24 +32,24 @@
 
 ** Steps to be followed by the students for raising issues
 
-   An interested student needs to test the IIIT Hyderabad labs (27
+   An interested student needs to test the IIIT Hyderabad labs (20
    labs). The testing process would be carried out to find the
    problems with the labs. When any such issue is identified the below
    process list the steps for logging such issues.
 
-*** Steps to create a new github repository
-   1) Login to your github profile and click on repositories
-      tab.
-   2) Click *New* button (green coloured) for creating a new
-      repository.
-   3) Give repository name as "virtual-labs-internship"
-   3) Add a description for the repository.
-   4) Choose "Public" option to make it visible to everyone.
-   5) Select Initialize this repository with a README and give a 2
-      line introduction for the repository.
-   6) Click Create repository.
-   After these steps, you repository is ready for the process of
-   raising bugs.
+*** Steps to create a new gitlab project
+    1) Login to your gitlab profile and click on New Projects
+       button. If you do not have a Gitlab account, please create one
+       first. It functions like github only.
+    2) Give project name as "virtual-labs-internship".
+    3) Add a small description for the project to help you identifying
+       this activity in future references.
+    4) Keep the Visibility Level as *Private*. Choose *Private* option
+       to make it visible to Virtual Labs team only.
+    5) Click Create Project and create the project in gitlab.
+    6) Go to Settings>Members from the left side panel
+    After these steps, you repository is ready for the process of
+    raising bugs.
 *** Parameters to be considered while raising the issues
     1) Operational defects : Broken links, error pages, content not
        visible, buttons not working and any others.
