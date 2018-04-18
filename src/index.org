@@ -60,13 +60,13 @@
     labs. You would be testing 20 IIIT hyderabad labs as part of this
     program and raise the issues for the same. 
 *** Parameters for raising the issues
-    1) Operational defects : Broken links, error pages, content not
+    1) *Operational defects* : Broken links, error pages, content not
        visible, buttons not working and any others.
 
-    2) Functional defects : Provided features are not working as per
+    2) *Functional defects* : Provided features are not working as per
        the expectations.
 
-    3) Simulation defects :
+    3) *Simulation defects* :
 
        + Working Status - Whether the simulation works as per the
          instructions given. If there are no instructions, scope of
@@ -80,11 +80,11 @@
          identified to have logical flaws in the experiment
          simulations. A great opportunity to resolve them.
 
-    4) Enhancements: If the quality and clarity of the content is not
+    4) *Enhancements* - If the quality and clarity of the content is not
        upto the mark, new content could be suggested to make it more
        comprehensible. Such issues are always welcomed. 
     
-    5) Every defect/bug logged should follow the SMART ideology -
+    5) Every defect/bug logged should follow the *SMART* ideology -
        Specific, Measurable, Attainable, Realistic and Timely. Refrain
        from identifying spelling mistakes as bugs. They won't be
        considered as issues.
@@ -132,10 +132,10 @@
   
    2) Category : At any time an issue could be either of the two -
 
-      + Bug - This refers to the problems existing in the labs. It
+      + *Bug* - This refers to the problems existing in the labs. It
         could be with any section/sub section of an experiment.
 
-      + Enhancement - This category refers to new suggestions for the
+      + *Enhancement* - This category refers to new suggestions for the
         labs which could improve the lab quality. For e.g. the
         existing content is not comprehensible, a new content could be
         suggested for the same.
@@ -145,14 +145,14 @@
       At any given time a issue should only be in any one of the
       types 
 
-      + Content - If the content is not comprehensible or has some
+      + *Content* - If the content is not comprehensible or has some
         mistakes, otherwise a new content needs to be added in case of
         incomplete information.
     
-      + UI - If there are any user interface related broken links,
+      + *UI* - If there are any user interface related broken links,
         buttons not functioning as per the expected results.
 
-      + Functionality - This would include the issues where the
+      + *Functionality* - This would include the issues where the
         features are not working as per expectations. E.g. Simulator
         is not working
 
@@ -164,19 +164,19 @@
    severity label should be checked.
 
 
-   1)  S1 : This label indicates that the issue affects critical
+   1)  *S1* : This label indicates that the issue affects critical
        functionality or critical data. Example: Prevention of user
        interaction, unfaithful to the semantics of interaction and
        redirection to the error page, logical errors in the experiment
        simulations.
 
-   2)  S2 : This label indicates that the issues affects major
+   2)  *S2* : This label indicates that the issues affects major
        functionality or major data. It could have broken links and a
        field view being inconsistent with its specifications Example:
        In a form if there is a field which is editable but it is not
        allowing the user to edit it.
 
-   3) S3 : This label indicates that the issue affects minor
+   3) *S3* : This label indicates that the issue affects minor
       functionality or non-critical data. Example: Visual
       imperfections like spelling and grammar, alignment, inconsistent
       terminology, colour, shapes and fonts(css properties).
