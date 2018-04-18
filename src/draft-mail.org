@@ -1,4 +1,4 @@
-#+TITLE: outreach Intership Program 
+#+TITLE: Outreach Intership Program 
 #+AUTHOR: VLEAD
 #+DATE: [2018-04-17 Tue]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -39,52 +39,52 @@ http://pascal.iiit.ac.in/~choppell
 Regards
 Priya
 
-* Draft of student participation for internship
+* Draft e-mail for Virtual Labs Outreach Internship Program
 
-Dear Student,
+Dear Nodal Coordinators,
 
-Welcome to Virtual Labs - BUGATHON @ IIITH !!!
+Welcome to Virtual Labs Internship @ IIITH !!!
 
-We are delighted that you are interested to participate in
-the selection process of Virtual Labs internship
-program. This has been developed for students to attain
-practical training and hands-on real world experience that
-will help them meet their educational goals and prepare them
-for a professional career.
+We are delighted that you are interested to participate in the [[https://vlabs.ac.in][Virtual
+Labs]] Internship Program. It has been developed to provide students a
+good understanding in open source technologies, software development
+life cycle and working with technology experts.
 
-The following are the instructions to be followed by the
-students to participate in the shortlisting process of
-internship.
+Following are the instructions for students to participate in the
+selection process of internship.
 
+1) The students would be shortlisted based on the number and type of
+   [[https://help.github.com/articles/about-issues/][issues]] raised in their [[https://about.gitlab.com/about/][GitLab]] profile for the 20 [[https://vlabs.ac.in][IIIT-Hyderabad]]
+   labs. Based on the issues raised the students would be given an
+   opportunity to work as a intern in Virtual Labs.
 
-1) The students would be shortlisted based on the number of
-   [[https://help.github.com/articles/about-issues/][issues]] raised in their gitlab profile for the 20
-   IIIT-Hyderabad labs. Based on the issues raised the
-   students would be given an opportunity to work as a
-   intern in virtual lab.
+2) [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org#setup-of-testing-environment][Click here]] to see the detailed steps for the issue raising process
+   and setting up the local testing environment.
 
-2) [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org#setup-of-testing-environment][Click here]] to see the detailed steps for the issue
-   raising process and setting up the local testing
-   environment.
+3) Duration for defect logging by the students is allowed till 5th May
+   2018 , 12:00 A.M. IST.
 
-3) Time limit for logging defects by students would be from
-   30th April till 5th May , 2018.
+4) Top 10 students will be awarded with cash prize based on the number
+   and type of issues (severity level, functionality defects, proposal
+   for enhancements and logical flaws).
 
-4) Top 10 students will be awarded with cash prize based on
-   the issues(severity level, functionality defects
-   identified, proposal for enhancements and logical flaws
-   identified).
+5) Selected students would get an opportunity to attend a 3 days boot
+   camp (9th-11th May, 2018) at IIIT-Hyderabad headed by our esteemed
+   faculty and mentors. On the first day, students would be mentored
+   on GitHub and development processes, followed by the next one day
+   session on the required technological competencies. The last day
+   would be focussed on a sample issue demo along with the Validation
+   and Review process.
+   
+6) The interns would be weekly reviewed at IIIT H and the top
+   contributors in a week will be awarded with surprise gifts. 
 
-5) Selected students would get an opportunity to attend a 3
-   days boot camp at IIIT-Hyderabad headed by our esteemed
-   mentors. The interns would be appraised with weekly cash
-   awards and vouchers who perform exceptionally well during
-   the process of resolving issues. Top 3 interns at the end
-   of the program would also be awarded with the cash
-   prizes.
+7) Top 3 interns at the end of the program would be awarded with cash
+   prizes. All the interns contributing in code fixes would get an
+   internship certificate.
  
-6) All the interns would be given a participation
-   certificate.
+Wishing you all the best and we look forward for your successful
+internship. For any clarifications, please contact <email id>
 
 
 
