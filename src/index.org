@@ -47,10 +47,19 @@
     4) Keep the Visibility Level as *Private*. Choose *Private* option
        to make it visible to Virtual Labs team only.
     5) Click Create Project and create the project in gitlab.
-    6) Go to Settings>Members from the left side panel
+    6) Go to Settings>Members from the left side panel and send invites to below 3 people for adding in this project :
+       a) sanchita-dixit
+       b) mrudhvika940
+       c) lalitsanagavarapu
+       d) IIIT H intern - Gayatri
+    7) You can start raising issues in this project now. 
     After these steps, you repository is ready for the process of
     raising bugs.
-*** Parameters to be considered while raising the issues
+*** Code repository link for labs to be tested
+    Visit [[https://vlabs.ac.in][Virtual Labs website]] for accessing the IIIT Hyderabad
+    labs. You would be testing 20 IIIT hyderabad labs as part of this
+    program and raise the issues for the same. 
+*** Parameters for raising the issues
     1) Operational defects : Broken links, error pages, content not
        visible, buttons not working and any others.
 
@@ -71,23 +80,44 @@
          simulations. A great opportunity to resolve them.
 
     4) Enhancements: If the quality and clarity of the content is not
-       upto the mark, new content could be suggested where the content
-       to make it more comprehensible. Such issues are always
-       welcomed.
+       upto the mark, new content could be suggested to make it more
+       comprehensible. Such issues are always welcomed. 
     
     5) Every defect/bug logged should follow the SMART ideology -
-       Specific, Measurable, Attainable, Realistic and Timely
+       Specific, Measurable, Attainable, Realistic and Timely. Refrain
+       from identifying spelling mistakes as bugs. They won't be
+       considered as issues.
 
 *** Naming convention to be followed while creating issues
-    <lab_name>_<experiment_name>_<in which sub section of experiment the
+    <lab_name>_<experiment_name>_<sub section of experiment where the
     bug is detected>
  
     for example: problem-solving_numerical-representation_objective
 
-*** Description of issue includes the following
-    - Defect description
+*** How to raise the issues
+    Following details must be present in an issue when the problem is
+    identified in a lab :
+
+    - Defect description 
+      
+      Give an abstract of the issue identified in simple words. The
+      first few lines should specify an exact problem in the
+      application. In the following paragraph mention in detail like
+      steps to reproduce (E.g. Start from the Login step till the
+      defect was found).  The more elaborate the issue description,
+      better it would be to avoid duplications by other students. It
+      would be easier to analyse the defect and fix it.
+
     - Expected result
+
+      It should elaborate the result which you are expecting to see as
+      an end user. In this section you can propose what could be done
+      to resolve it or done to enhance it in brief.
+
     - Actual result
+
+      This section should descibe what the feature is actually showing
+      instead of correct results. 
     - Screen shot
   
 ** Labels and severity
@@ -198,8 +228,11 @@
 *** Perks and Prize money
   Top students will be awarded with cash award and all the
   students would be given a participation certificate.
+
 * Validation of issues
-  
+  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad labs code repositories
+  for testing. The 20 IIIT hyderabad labs which needs to be tested
+  would have a naming convention of <labname>-iiith
 * Conclusion
   Based on the bugs raised the students would be given an
   opportunity to work as an intern in virtual labs.
