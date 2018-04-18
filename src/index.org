@@ -154,30 +154,31 @@
          features are not working as per expectations. E.g. Simulator
          is not working
     
-    4) Severity : At any given time a issue should only have one of
-       the severity levels as described below. To change the severity
-       of an issue, the existing label of the issue should be unchecked
-       and the new severity label should be checked.
+      4) Severity : At any given time a issue should only have one of
+         the severity levels as described below. To change the
+         severity of an issue, the existing label of the issue should
+         be unchecked and the new severity label should be checked.
 
-       1) S1 : This label indicates that the issue affects critical
-          functionality or critical data. Example: Prevention of user
-          interaction, unfaithful to the semantics of interaction and
-          redirection to the error page, logical errors in the
-          experiment simulations.
+         1) S1 : This label indicates that the issue affects critical
+            functionality or critical data. Example: Prevention of
+            user interaction, unfaithful to the semantics of
+            interaction and redirection to the error page, logical
+            errors in the experiment simulations.
 
-       2) S2 : This label indicates that the issues affects major
-          functionality or major data. It could have broken links and
-          a field view being inconsistent with its specifications
-          Example: In a form if there is a field which is editable but
-          it is not allowing the user to edit it.
+         2) S2 : This label indicates that the issues affects major
+            functionality or major data. It could have broken links
+            and a field view being inconsistent with its
+            specifications Example: In a form if there is a field
+            which is editable but it is not allowing the user to edit
+            it.
 
-        3) S3 : This label indicates that the issue affects minor
-           functionality or non-critical data. Example: Visual
-           imperfections like spelling and grammar, alignment,
-           inconsistent terminology, colour, shapes and fonts(css
-           properties).
+         3) S3 : This label indicates that the issue affects minor
+            functionality or non-critical data. Example: Visual
+            imperfections like spelling and grammar, alignment,
+            inconsistent terminology, colour, shapes and fonts(css
+            properties).
 
-** List of issues to be considered invalid
+** Issues that would be considered invalid
 
    1) Full Screen button on experiment simulations doesn't open in the
       new tab, instead we have to copy the URL in a new browser window
@@ -188,14 +189,12 @@
       weightage.
 
 *** Time limit for raising issues
-    Students would be allowed to log defects from 30th April till 5th
-    May , 2018
+    Students would be allowed to log defects from *30th April* till *5th May* , 2018
 
 *** Perks and Prize money
     Top 10 students would be awarded with cash prizes based on the
     gravity of issues (severity level, functionality defects
-    identified, proposal for enhancements and logical flaws
-    identified).
+    identified, proposal for enhancements and logical flaws).
 
 * Conclusion
   Based on the issues raised the students would be given an
