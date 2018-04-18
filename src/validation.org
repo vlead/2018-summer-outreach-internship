@@ -1,0 +1,58 @@
+#+TITLE: Validation of issues
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-12 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes the process followed for
+  validating the issues raised by the students.
+
+* Validation of issues
+  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad labs code
+  repositories for testing. The 20 IIIT hyderabad labs which
+  needs to be tested would have a naming convention of
+  <labname>-iiith
+
+* Status of issues
+  At any given time a issue should only be in one of the
+  below described states. To change the state of a defect,
+  the current status label of the defect should be
+  unchecked and the new status label should be checked.
+
+  - Open : This label indicates that when a issue is
+    logged and posted for the first time, it would be
+    labelled as 'Open'.
+
+  - In Progress : This label indicates that Open issues
+    while being worked upon by the developer would be
+    labelled as 'InProgress'.
+
+  - Fixed : This label indicates that the issue has been
+    fixed by the developers in their lab GitHub
+    repository. Only the developers can mark the issue as
+    fixed. Test engineers would test only resolved and open
+    defects.
+
+  - Resolved : This label indicates that when developers
+    make necessary code changes and verifies the changes
+    then they can label the defect as ¡®Resolved¡¯. The
+    developers as well as the lab owners can mark the issue
+    as Resolved.
+
+  - Reopen : This label indicates that if a resolved defect
+    surfaces during testing, the test engineer would label
+    it as 'Reopen'.
+
+  - Closed : This label indicates that Resolved defects
+    would be labelled as 'Closed' by the test engineers
+    after they pass the tests. This label means that the
+    defect is resolved, tested and approved.
+
+* Conclusion
+  After the validation process, the issues would be
+  finalized and assigned to the students for resolving them.
+  
+
