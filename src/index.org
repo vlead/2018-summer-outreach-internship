@@ -141,7 +141,7 @@
    3) Type of issues :
 
       At any given time a issue should only be in any one of the
-      types :
+      types 
 
       1) Content - If the content is not comprehensible or has some
          mistakes, otherwise a new content needs to be added in case
