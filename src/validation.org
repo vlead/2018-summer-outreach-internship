@@ -15,6 +15,19 @@
   repositories for testing. The 20 IIIT hyderabad labs which
   needs to be tested would have a naming convention of
   <labname>-iiith
+* Dates like sending email result declaration
+* Validation and review after raising bugs
+  Once the process of raising the issues is finished validating
+  them has to be done. The following are the proposed
+  methodologies for validating issues
+** Methodology 1
+   
+** Methodology 2
+
+* Validation and review after fixing bugs
+** Steps to reproduce
+
+** Ranking/scoring based on the severity level
 
 * Status of issues
   At any given time a issue should only be in one of the
