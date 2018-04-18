@@ -159,6 +159,7 @@
       issue, the existing label of the issue should be unchecked and
       the new severity label should be checked.
 
+
       1) S1 : This label indicates that the issue affects critical
          functionality or critical data. Example: Prevention of user
          interaction, unfaithful to the semantics of interaction and
