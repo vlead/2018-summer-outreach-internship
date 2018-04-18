@@ -18,8 +18,8 @@
 
 * Status of issues
   At any given time a issue should only be in one of the
-  below described states. To change the state of a defect,
-  the current status label of the defect should be
+  below described states. To change the state of a issue,
+  the current status label of the issue should be
   unchecked and the new status label should be checked.
 
   - Open : This label indicates that when a issue is
@@ -34,22 +34,22 @@
     fixed by the developers in their lab GitHub
     repository. Only the developers can mark the issue as
     fixed. Test engineers would test only resolved and open
-    defects.
+    issues.
 
   - Resolved : This label indicates that when developers
     make necessary code changes and verifies the changes
-    then they can label the defect as ¡®Resolved¡¯. The
+    then they can label the issue as ¡®Resolved¡¯. The
     developers as well as the lab owners can mark the issue
     as Resolved.
 
-  - Reopen : This label indicates that if a resolved defect
-    surfaces during testing, the test engineer would label
-    it as 'Reopen'.
+  - Reopen : This label indicates that if a issue surfaces
+    during testing, the test engineer would label it as
+    'Reopen'.
 
-  - Closed : This label indicates that Resolved defects
+  - Closed : This label indicates that Resolved issues
     would be labelled as 'Closed' by the test engineers
     after they pass the tests. This label means that the
-    defect is resolved, tested and approved.
+    issue is resolved, tested and approved.
 
 * Conclusion
   After the validation process, the issues would be
