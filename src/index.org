@@ -160,23 +160,23 @@
       the new severity label should be checked.
 
 
-      1) S1 : This label indicates that the issue affects critical
-         functionality or critical data. Example: Prevention of user
-         interaction, unfaithful to the semantics of interaction and
-         redirection to the error page, logical errors in the
-         experiment simulations.
+       +  S1 : This label indicates that the issue affects critical
+          functionality or critical data. Example: Prevention of user
+          interaction, unfaithful to the semantics of interaction and
+          redirection to the error page, logical errors in the
+          experiment simulations.
 
-      2) S2 : This label indicates that the issues affects major
-         functionality or major data. It could have broken links and a
-         field view being inconsistent with its specifications
-         Example: In a form if there is a field which is editable but
-         it is not allowing the user to edit it.
+       +  S2 : This label indicates that the issues affects major
+          functionality or major data. It could have broken links and
+          a field view being inconsistent with its specifications
+          Example: In a form if there is a field which is editable but
+          it is not allowing the user to edit it.
 
-      3) S3 : This label indicates that the issue affects minor
-         functionality or non-critical data. Example: Visual
-         imperfections like spelling and grammar, alignment,
-         inconsistent terminology, colour, shapes and fonts(css
-         properties).
+       +  S3 : This label indicates that the issue affects minor
+          functionality or non-critical data. Example: Visual
+          imperfections like spelling and grammar, alignment,
+          inconsistent terminology, colour, shapes and fonts(css
+          properties).
 
 ** Issues that would be considered invalid
 
