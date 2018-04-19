@@ -48,7 +48,7 @@ The program is designed in 2 phases :
    handle and a resume available online. The selection process would
    be based on the initial activity of logging bugs by the applied
    students. The step by step instructions are provided in this
-   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org#issuebug-logging-process---selection-of-interns][document]].
+   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/intern-selection.org][document]].
 
    Duration for bug logging by the students is allowed till 5th May
    2018 , 12:00 A.M. IST.  We would request all the interested
