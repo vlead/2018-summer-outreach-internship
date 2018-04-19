@@ -45,10 +45,40 @@ Dear Nodal Coordinators,
 
 Welcome to Virtual Labs Internship @ IIITH !!!
 
-We are delighted that you are interested to participate in the [[https://vlabs.ac.in][Virtual
-Labs]] Internship Program. It has been developed to provide students a
-good understanding in open source technologies, software development
-life cycle and working with technology experts.
+We are delighted that your students are interested to
+participate in the [[https://vlabs.ac.in][Virtual Labs]] 2018 Internship
+Program. This program has been exclusively developed to
+provide students a good understanding in open source
+technologies, software development life cycle while working
+with technology experts.
+
+Instruction to NC
+
+Step 1 : Forward the following mail to your college
+         student : decide on branch & year
+
+ 
+
+Forward mail 
+
+Instructions to the students 
+
+Step 1 : To apply for the internship program, make sure you have your github handle and a resume available online. Then fill the online application form
+
+
+About the program
+
+Introduction to the program
+Phase 1 and Phase 2 of the intership
+Process 
+We will send the selected interns step by step instructions
+on how to go about with the phase 1 of the internship. 
+Benefits 
+
+
+
+
+
 
 Following are the instructions for students to participate in the
 selection process of internship.
