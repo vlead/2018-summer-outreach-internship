@@ -15,7 +15,20 @@
   repositories for testing. The 20 IIIT hyderabad labs which
   needs to be tested would have a naming convention of
   <labname>-iiith
-* Dates like sending email result declaration
+* Plan of action
+  - Logging issues is from 30th April - 5th May, 2018
+  - Result declaration is on  8th May, 2018
+  - Boot Camp could start from 9th May - 11th May, 2018 
+  - Bug fixing begins from May 14th - 4th June, 2018
+  - Reviews for resolved issues are done during the cycle of
+    internship process. In the 3 weeks of bug resolution
+    process, Validation of the resolved issues are done by VLEAD mentors once in a week. 
+    Final validation of 
+    IIIT- H domain experts. Interns are expected to visit
+    VLEAD once in a week for any course correction or
+    guidance during bug resolution (10 a.m. -
+    4p.m. tentative timings).
+
 * Validation and review after raising bugs
   Once the process of raising the issues is finished validating
   them has to be done. The following are the proposed
