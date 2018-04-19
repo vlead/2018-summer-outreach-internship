@@ -7,7 +7,8 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document describes the detailed steps to be followed
+  This document details to story board along with summary
+  and timelines for the outreach intership program.
   by the students to participate in the Virtual Labs
   internship program.
 
@@ -20,6 +21,31 @@
   behind conducting such intenrship program is to do
   outreach activities for the Virtual Labs and improve its
   reach to as many colleges as possible.
+
+* Summary at a glance
+ |------+------------+------+--------------|
+ | S.no | Activity   | Date | Remarks/link |
+ |------+------------+------+--------------|
+ |   1. | Mail to NC |      |              |
+ 
+* Timelines
+  
+
+* Process
+  Link to the process doc
+
+* Draft Mails 
+  Draft mail to call for interns
+  Draft mail to explain process for Phase 1
+  Draft mail to announce selected candidates for Phase 2
+
+* Logistics
+  Prize Money
+  Support during bootcamp
+
+
+ 
+
 
 * Issue/Bug logging process - Selection of interns
   The below sections describe the entire process of raising
