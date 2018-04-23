@@ -1,0 +1,26 @@
+#+TITLE: Bootcamp plan
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-23 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes the bootcamp plan for selected students at
+  IIITH. VLEAD would be conducting the 3 days bootcamp for the
+  students to onboard them for the next 3-4 weeks of the internship
+  program. They would be trained on the development/testing
+  environments along with the technological dependencies required for
+  the labs.
+
+* Plan of action (take from slides and the link in hangouts)
+  Day 1 - Development environment, local testing environment
+  Day 2 - technological dependencies
+  Day 3 - any other details and plan for ahead
+
+* Conclusion
+  After the validation process, the issues would be
+  finalized and assigned to the students for resolving them.
+  
+
