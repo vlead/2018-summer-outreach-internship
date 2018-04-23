@@ -22,7 +22,7 @@
       * Set the 'Visibility Level' as *Private*.
       * Click on 'Create Project'.
       * Click on "Settings" and then "Members"
-      * Give "Select members to invite" as "*outreach-intrernship*".
+      * Give "Select members to invite" as "*outreach-internship*".
       * Set "Choose a role permission" as "*master*".
       * Set the date to "Access expiration date" as "*09 May
         2018*".
