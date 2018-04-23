@@ -18,19 +18,50 @@
   mission mode project run by MHRD. Students would be
   contributing towards the open source development community
   as well as improve the Virtual Labs. The motivation for us
-  behind conducting such intenrship program is to do
+  behind conducting such internship program is to do
   outreach activities for the Virtual Labs and improve its
   reach to as many colleges as possible.
 
 * Summary at a glance
- |------+------------+------+--------------|
- | S.no | Activity   | Date | Remarks/link |
- |------+------------+------+--------------|
- |   1. | Mail to NC |      |              |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ | S.no | Activity                             | Date               | Remarks/link                              | Status      |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ |   1. | Mail to NC                           | 20th April, 2018   | Initial mail for participation            | Done        |
+ |      |                                      |                    | which would be forwarded to all           |             |
+ |      |                                      |                    | students by the NCs                       |             |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ |   2. | Intermediate email in the            | 1-4th May, 2018    | One intermediate email to keep up         | Pending     |
+ |      | week of May 1st - May 4th,           |                    | issue raising activity enthusiasm         |             |
+ |      | 2018 to assess the ongoing           |                    | amongst the NCs and their students        |             |
+ |      | issue raising activity               |                    |                                           |             |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ |   3. | Deadline for                         | 7th May, 2018      | The forms would have the GitLab           | Pending     |
+ |      | filling up application form          |                    | handle of the students where they         |             |
+ |      | (reminder email on 27th April,2018)  |                    | have logged issues                        |             |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ |   4. | Validation and review of the logged  | 7th-8th May, 2018  | Validation document to help in            | In progress |
+ |      | defects by VLEAD team                |                    | better understanding of the               |             |
+ |      |                                      |                    | parameters and methods in selecting       |             |
+ |      |                                      |                    | the candidates for the internship         |             |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ |   5. | Mail to the selected students for    | 8th May, 2018      | based on the issues reviewed, students    | Pending     |
+ |      | the internship and bootcamp (details |                    | would be selected for internship and      |             |
+ |      | for bootcamp)                        |                    | bootcamp                                  |             |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ |   6. | Bootcamp at IIIT H                   | 9th-11th May, 2018 | 3 days bootcamp session at IIITH to be    | Pending     |
+ |      |                                      |                    | conducted by VLEAD team, bootcamp         |             |
+ |      |                                      |                    | detailed document would provide the       |             |
+ |      |                                      |                    | insights into the 3 day program           |             |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
+ |   7. | Weekly review process for resolved   | 11th May-14th June | reoslving issues, testing them on local   | Pending     |
+ |      | issues by VLEAD team                 | 2018               | environments, review by VLEAD team,       |             |
+ |      |                                      |                    | testing & merging the approved issues     |             |
+ |      |                                      |                    | with develop (by VLEAD team), pushing the |             |
+ |      |                                      |                    | changes in production                     |             |
+ |------+--------------------------------------+--------------------+-------------------------------------------+-------------|
  
 * Timelines
   
-
 * Process
   Link to the process doc
 
