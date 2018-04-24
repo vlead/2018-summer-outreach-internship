@@ -1,6 +1,6 @@
 #+TITLE: Phase 2 : Validation of resolved issues
 #+AUTHOR: VLEAD
-#+DATE: [2018-04-12 Mon]
+#+DATE: [2018-04-25 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
@@ -10,30 +10,11 @@
   This document describes the process followed for
   validating the issues raised by the students.
 
-* Validation of issues
+* Link for lab code repositories
   Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad labs code
   repositories for testing. The 20 IIIT hyderabad labs which
   needs to be tested would have a naming convention of
   <labname>-iiith
-* Plan of action
-  - Logging issues is from 30th April - 5th May, 2018
-  - Result declaration is on  8th May, 2018
-  - Boot Camp could start from 9th May - 11th May, 2018 
-  - Bug fixing begins from May 14th - 4th June, 2018
-  - Reviews for resolved issues are done during the cycle of
-    internship process. In the 3 weeks of bug resolution
-    process, Validation of the resolved issues are done by VLEAD mentors once in a week. 
-    Final validation of 
-    IIIT- H domain experts. Interns are expected to visit
-    VLEAD once in a week for any course correction or
-    guidance during bug resolution (10 a.m. -
-    4p.m. tentative timings).
-
-* Validation and review after fixing bugs
-** Steps to reproduce
-
-** Ranking/scoring based on the severity level
-
 * Status of issues
   At any given time a issue should only be in one of the
   below described states. To change the state of a issue,
@@ -68,6 +49,22 @@
     would be labelled as 'Closed' by the test engineers
     after they pass the tests. This label means that the
     issue is resolved, tested and approved.
+
+* Plan of action
+  - Bug fixing begins from May 14th - 4th June, 2018
+  - Reviews for resolved issues are done during the cycle of
+    internship process. In the 3 weeks of bug resolution process,
+    Validation of the resolved issues are done by VLEAD mentors once
+    in a week.  
+  - Final validation of resolved issues would be done by IIIT- H
+    domain experts. Interns are expected to visit VLEAD once in a week
+    for any course correction or guidance during bug resolution (10
+    a.m. - 4p.m. tentative timings).
+
+* Validation and review after fixing bugs
+** Steps to reproduce
+
+** Ranking/scoring based on the severity level
 
 * Conclusion
   After the validation process, the issues would be
