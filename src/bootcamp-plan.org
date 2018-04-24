@@ -72,15 +72,6 @@
   - S1 issue is awarded with 5 Points
   - S2 issue is awarded with 3 Points
   - S3 issue is awarded with 1 Point
-* Perks and Prize money
-  - Based on the issues resolved and the total points
-    attained, we can have a leaderboard depicting all the
-    interns rankwise and award cash prizes/vouchers to the
-    top 3 interns every week or so.
-  - Every intern would at least earn a certificate and
-    others who performed well would also earn cash prizes
-    along with the certificates.
-
 * Contact Information
   Please contact the VLEAD Team at internship@vlabs.ac.in
 * Conclusion
