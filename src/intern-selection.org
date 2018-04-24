@@ -24,7 +24,7 @@
         3) Set the 'Visibility Level' as *Private*.
         4) Click on 'Create Project'.
         5) Click on "Settings" from slider bar that is on
-           the left side  f your web page. Then click on
+           the left side of your web page. Then click on
            "Members" option from the settings menu.
         6) Select "*outreach-internship*" in "Select
            members to invite" section. 
