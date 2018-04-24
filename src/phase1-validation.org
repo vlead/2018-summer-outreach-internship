@@ -7,29 +7,35 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document describes the process followed for
-  validating the issues raised by the students.
+  This document describes the process followed for validating the
+  issues raised by the students in the phase 1.
 
-* Validation of issues
-  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad labs code
-  repositories for testing. The 20 IIIT hyderabad labs which
-  needs to be tested would have a naming convention of
-  <labname>-iiith
 * Plan of action
-  - Logging issues is from 30th April - 5th May, 2018
-  - Result declaration is on  8th May, 2018
-  - Boot Camp could start from 9th May - 11th May, 2018 
-  - Bug fixing begins from May 14th - 4th June, 2018
-  - Reviews for resolved issues are done during the cycle of
-    internship process. In the 3 weeks of bug resolution
-    process, Validation of the resolved issues are done by VLEAD mentors once in a week. 
-    Final validation of 
-    IIIT- H domain experts. Interns are expected to visit
-    VLEAD once in a week for any course correction or
-    guidance during bug resolution (10 a.m. -
-    4p.m. tentative timings).
+  The deadline for submitting the application forms is 7th May 2018,
+  8:00 a.m. IST. This means that by that time all the interested
+  students would have logged all the defects in their own gitLab
+  profiles. The following steps would be carried as described below :
 
-* Validation and review after raising bugs
+  + VLEAD team (Lalit, Sanchita, Mrudhvika and Gayatri) is the core
+    team which would carry out the tasks of mentoring, reviewing and
+    validating the issues raised as well resolved later in the further
+    phases.
+  + For phase 1 validation, criteria has been designed to select the
+    issues raised by all the students based on the certain parameters.
+  + The selected issues would be pulled out from the students profiles
+    and put in a single repository in Github along with their labels
+    and all the content. (automated script required)
+  + Once the issues are put in a single bucket, an automated script
+    would filter out the issues which are duplicates or refer to
+    spelling mistakes. Other parameters to filter are described in
+    detail in sections below.
+  + After the issues are filtered out and selected for the phase 2,
+    they would be migrated to the respective lab repositories in
+    Github. (automated script required)
+  + These issues would now be labelled as *open* for the selected
+    interns to resolve.
+
+* Validation and review process
   Once the process of raising the issues is finished validating
   them has to be done. The following are the proposed
   methodologies for validating issues
@@ -37,48 +43,8 @@
    
 ** Methodology 2
 
-* Validation and review after fixing bugs
-** Steps to reproduce
-
-** Ranking/scoring based on the severity level
-
-* Status of issues
-  At any given time a issue should only be in one of the
-  below described states. To change the state of a issue,
-  the current status label of the issue should be
-  unchecked and the new status label should be checked.
-
-  - Open : This label indicates that when a issue is
-    logged and posted for the first time, it would be
-    labelled as 'Open'.
-
-  - In Progress : This label indicates that Open issues
-    while being worked upon by the developer would be
-    labelled as 'InProgress'.
-
-  - Fixed : This label indicates that the issue has been
-    fixed by the developers in their lab GitHub
-    repository. Only the developers can mark the issue as
-    fixed. Test engineers would test only resolved and open
-    issues.
-
-  - Resolved : This label indicates that when developers
-    make necessary code changes and verifies the changes
-    then they can label the issue as ¡®Resolved¡¯. The
-    developers as well as the lab owners can mark the issue
-    as Resolved.
-
-  - Reopen : This label indicates that if a issue surfaces
-    during testing, the test engineer would label it as
-    'Reopen'.
-
-  - Closed : This label indicates that Resolved issues
-    would be labelled as 'Closed' by the test engineers
-    after they pass the tests. This label means that the
-    issue is resolved, tested and approved.
-
 * Conclusion
-  After the validation process, the issues would be
-  finalized and assigned to the students for resolving them.
+  After the validation process, the issues would be finalized and the
+  students would pick them up for resolving them.
   
 
