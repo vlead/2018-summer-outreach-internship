@@ -29,14 +29,6 @@
     guidance during bug resolution (10 a.m. -
     4p.m. tentative timings).
 
-* Validation and review after raising bugs
-  Once the process of raising the issues is finished validating
-  them has to be done. The following are the proposed
-  methodologies for validating issues
-** Methodology 1
-   
-** Methodology 2
-
 * Validation and review after fixing bugs
 ** Steps to reproduce
 

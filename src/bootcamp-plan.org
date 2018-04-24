@@ -16,7 +16,13 @@
 
 * Plan of action (take from slides and the link in hangouts)
   Day 1 - Development environment, local testing environment
-  Day 2 - technological dependencies
+
+  Github link for the lab code repositories Please use this [[https://github.com/virtual-labs/][link]] for
+  the IIIT-Hyderabad labs code repositories for testing. The 20 IIIT
+  hyderabad labs which needs to be tested would have a naming
+  convention of <labname>-iiith 
+
+  Day 2 - technological dependencies Day
   Day 3 - any other details and plan for ahead
 
 * Conclusion
