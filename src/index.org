@@ -69,7 +69,7 @@
 * Process
 ** Phase 1 - Issue/Bug logging process (Selection of interns)
    [[https://github.com/vlead/outreach-internship-program/blob/develop/src/intern-selection.org][Link for the document]]
-** Pahse 1 - Validation process by VLEAD team (selection of interns)
+** Phase 1 - Validation process by VLEAD team (selection of interns)
    [[https://github.com/vlead/outreach-internship-program/blob/develop/src/validation.org][Link for the document]]
 ** Phase 2 - Boot camp plan  
    [[][Link for the document]]
