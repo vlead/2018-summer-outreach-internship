@@ -13,71 +13,86 @@
 * Steps to be followed for raising issues/bugs/defects/enhancements
 ** Step 1
    Create a new gitlab project
-   1) Create a GitLab Handle
-   2) Steps to create a new gitlab project
-      * Login to your gitlab profile and click on New Projects
-       button.
-      * Give the project name as
-        "*virtual-labs-internship-<your name>*".
-      * Set the 'Visibility Level' as *Private*.
-      * Click on 'Create Project'.
-      * Click on "Settings" and then "Members"
-      * Give "Select members to invite" as "*outreach-internship*".
-      * Set "Choose a role permission" as "*master*".
-      * Set the date to "Access expiration date" as "*09 May
-        2018*".
-      * Click on "*Add to project*".
+   1) Create a GitLab username which is also called as
+      GitLab handle.
+   2) Create a new GitLab project.
+      - Steps to create a new gitlab project
+        1) Login to your gitlab profile using the handlers
+          and click on New Projects.
+        2) Name your project as
+           "*virtual-labs-internship-<your name>*". 
+        3) Set the 'Visibility Level' as *Private*.
+        4) Click on 'Create Project'.
+        5) Click on "Settings" from slider bar that is on
+           the left side of your web page. Then click on
+           ¡°Members¡± option from the settings menu.
+        6) Select  "*outreach-internship*" in "Select members
+        to invite" section. 
+        7) Select ¡±master¡± for ¡°Choose a role permission¡±
+           field.
+        8) Set the "Access expiration date" as "*09 May,
+           2018*
+        9) Click on "*Add to project*".
 
 ** Step 2
-  1) Click [[www.http://vlabs.ac.in][Virtual Labs website]] and hover on institutes
+  1) Go to the [[www.http://vlabs.ac.in][Virtual Labs website]] and hover on Institutes
      option in the header and click on IIIT-Hyderabad to
      access the labs to be tested
   2) Select a lab and start exploring the features of the
-     experiments and the related textual content
-  3) During the exploration/usage, If you encounter any
-     issues such as
-   1) *Operational defects* : Broken links, error
-      pages,content not visible or incorrect including
-      English grammar, buttons not working and any others.
+     experiments and the content
+  3) While exploring the lab ,you may encounter the issues
+     such as
+   1) *Operational defects* : Such as broken links, error
+      pages, invisible or incorrect content including
+      English grammar and buttons that not in
+      functioning. The defects that you have observed other
+      than the above listed are also be logged as bugs. 
    2) *Simulation defects* :
-       + The simulation doesnot work as per the given
+       + The simulation that doesnot work as per the given
          instructions.
-       + No instructions given for the simulator.
-       + Incorrect display of the output.
-       + Logical flaw in the experiment simulation.
+       + The simulator with no instructions.
+       + When the output of the simulation is not as per the
+         requirement.
+       + Logical flaws in the experiment's simulation.
        + Quality of simulator can be improved or enhanced.
   4) Log as issues in gitlab
    
- 
 ** Step 3 
-   To start logging issues in gitlab
-   1) Visit the project that you created.
-   2) Click on "Issues", that is just below the overview on the left hand side of your web page.
+   Logging issues in GitLab
+   1) The issues need to be logged in the project that you
+      have created. Please follow the steps given below to
+      create a new issue in Gitlab.
+   2) Click on "Issues" option, that is just below the
+      overview on the left hand side of your web page.
    3) Click on "New Issue".  
-   4) <lab_name>_<experiment_name>_<sub section of
-      experiment where the bug is detected>
-      - For Example : problem-solving_numerical-representation_objective
-   5) Following details must be present in an issue when the problem is
-    identified in a lab.
+   4) Title of the issue should be in the following format.
+      "*<lab_name>_<experiment_name>_<sub section of
+      experiment where the bug is detected>*"
+      - For Example :
+        problem-solving_numerical-representation_objective
+   5) Following information must be given in the issues
+      while raising a bug in Gitlab.
     + Defect description : The description should specify an
       exact problem in the application. 
-    + Steps to reproduce the issue : Detail  the steps start
-      from the Login step till the defect was found.
-    + Expected result :  you can propose what could be done
-      to resolve it or done to enhance it in brief.
-    + Actual result : descibe what the feature is actually showing
-      instead of correct results.
-    + Screen shot : screenshot of the defect capturing the screen
-      where it was identified
+    + Steps to reproduce the issue : A detailed step by step
+      description to be given right from the login step
+      until the bug is identified.
+    + Expected result : It should elaborate the result which
+      you are expecting to see as an end user.
+    + Actual result : This section should descibe what the
+      feature is actually showing instead of correct results.
+    + Screen shot : A small screenshot of the defect
+      capturing the screen where it was identified and needs
+      to be resolved.
     Please go through this [[https://github.com/virtual-labs/problem-solving-iiith/issues/343][Sample Issue]] for better understanding. 
 
 ** Step 4 
-   Labels should be created for better identify and
-   categorise the issues
+   Labels are added for better identity and also to
+   categorize the issues
    1) Category : At any time an issue could be either of the
       two -
-      + *Bug* - This label refers to the problems existing in the
-        labs related to  section/sub section of an experiment.
+      + *Bug* - This label refers to the existing problem in the
+        labs related to  section/sub section.
       + *Enhancement* - This label refers to new suggestions for the
         labs which could improve the lab quality.
    2) Type of issues :
@@ -94,7 +109,7 @@
    "*Weight*". Based on the severity level of the issue select
    the value ranging from *No Weight* to *9*
    
-* Step 5         
+** Step 5         
   The following mentioned issues would be considered invalid
    1) Full Screen button on experiment simulations doesn't
       open in the new tab, instead we have to copy the URL
@@ -105,11 +120,13 @@
       they won't be given any weightage.
 
 * Time limit for raising issues
-   You are allowed to log defects till *7th May* 2018, 08:00
+   The students are allowed to log defects till *7th May*
+   2018, 08:00
    A.M. IST.
-
+   
 * Perks and Prize money
    Top 10 students would be awarded with prizes based on the
    gravity of issues (severity level, functionality defects
    identified, proposal for enhancements and logical flaws)
-   identified/logged after our team validates and review.
+   identified/logged after the validation and reviewing
+   process.
