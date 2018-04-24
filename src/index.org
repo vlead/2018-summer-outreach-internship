@@ -39,7 +39,7 @@
  |      | filling up application form          |                      | handle of the students where they          |             |
  |      | (reminder email on 25th April,2018)  |                      | have logged issues                         |             |
  |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   4. | Validation and review of the logged  | 7th-8th May, 2018    | Validation document to help in             | In progress |
+ |   4. | Validation and review of the logged  | 7th-8th May, 2018    | Validation document to help in             | Pending    |
  |      | defects by VLEAD team                |                      | better understanding of the                |             |
  |      |                                      |                      | parameters and methods in selecting        |             |
  |      |                                      |                      | the candidates for the internship          |             |
