@@ -15,12 +15,31 @@
   the labs.
 
 * Plan of action (take from slides and the link in hangouts)
-  Day 1 - Development environment, local testing environment
-  Day 2 - technological dependencies
-  Day 3 - any other details and plan for ahead
+  - Day 1
+    1) Development environment, local testing environment
+    2) Discussion about the tasks to be done during the 3
+       week process of internship.
+    3) A brief description about the github and the process
+       of use and make a commit after the code fix is done.
+    4) Setup the development environment for fixing the
+       bugs.
+  - Day 2 
+    1) Description about the Java and JavaScript
+       dependencies that helps the student to know about the
+       labs.
+    2) Give them a brief way of resolving the issues in
+       detail by resolving one and allow the students to
+       work on issues for fixing based on the discussed
+       technical. 
+  - Day 3
+    1) Any other details and plan for ahead
+python
 
 * Conclusion
   After the validation process, the issues would be
   finalized and assigned to the students for resolving them.
   
+
+
+
 
