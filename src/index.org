@@ -83,8 +83,8 @@
    [[https://github.com/vlead/outreach-internship-program/blob/develop/src/phase2-validation.org][Link for the document]]
 
 * Draft Mails 
-  [[][Initial Draft mail to call for interns] and [[][Initial Poster]
-  [[][Draft mail for the extended deadline of call for interns] and [[][Extended Deadline Poster]
+  [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/initial-draft-mail.org][Initial Draft mail to call for interns]] and [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/initial-summer-internship-poster.jpeg][Initial Poster]]
+  [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/extended-deadline-draft-mail.org][Draft mail for the extended deadline of call for interns]] and [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/extended-deadline-internship-poster.jpeg][Extended Deadline Poster]]
   [[][Draft mail 1 for the reminder of deadline for Application forms]]
   [[][Draft mail 2 for the reminder of deadline for Application forms]]
   [[][Draft mail for intermediate communication related to the ongoing issue raising activity]]
