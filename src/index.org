@@ -23,62 +23,70 @@
   reach to as many colleges as possible.
 
 * Summary at a glance
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- | S.no | Activity                             | Timeline             | Remarks/link                               | Status      |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   1. | Mail to NC                           | 20th April, 2018     | Initial mail for participation             | Done        |
- |      |                                      |                      | which would be forwarded to all            |             |
- |      |                                      |                      | students by the NCs                        |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   2. | Intermediate email in the            | 1-4th May, 2018      | One intermediate email to keep up          | Pending     |
- |      | week of May 1st - May 4th,           |                      | issue raising activity enthusiasm          |             |
- |      | 2018 to assess the ongoing           |                      | amongst the NCs and their students         |             |
- |      | issue raising activity               |                      |                                            |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   3. | Deadline for                         | 7th May, 2018        | The forms would have the GitLab            | Pending     |
- |      | filling up application form          |                      | handle of the students where they          |             |
- |      | (reminder email on 25th April,2018)  |                      | have logged issues                         |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   4. | Validation and review of the logged  | 7th-8th May, 2018    | Validation document to help in             | Pending    |
- |      | defects by VLEAD team                |                      | better understanding of the                |             |
- |      |                                      |                      | parameters and methods in selecting        |             |
- |      |                                      |                      | the candidates for the internship          |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   5. | Mail to the selected students for    | 8th May, 2018        | based on the issues reviewed, students     | Pending     |
- |      | the internship and bootcamp (details |                      | would be selected for internship and       |             |
- |      | for bootcamp)                        |                      | bootcamp                                   |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   6. | Bootcamp at IIIT H                   | 9th-11th May, 2018   | 3 days bootcamp session at IIITH to be     | Pending     |
- |      |                                      |                      | conducted by VLEAD team, bootcamp          |             |
- |      |                                      |                      | detailed document would provide the        |             |
- |      |                                      |                      | insights into the 3 day program            |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   7. | Weekly review process for resolved   | 14th May-8th June    | resolving issues, testing them on local    | Pending     |
- |      | issues by VLEAD team                 | 2018                 | environments, weekly review by VLEAD team, |             |
- |      |                                      |                      | testing & merging the approved issues      |             |
- |      |                                      |                      | with develop (by VLEAD team),              |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
- |   8. | Final review and prizes              | 11th-15th June, 2018 | pushing the changes in production,         | Pending     |
- |      |                                      |                      | result display, prize/certificate          |             |
- |      |                                      |                      | distribution                               |             |
- |------+--------------------------------------+----------------------+--------------------------------------------+-------------|
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ | S.no | Activity                              | Timeline             | Remarks/link                                 | Status  |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   1. | Mail to NC                            | 20th April, 2018     | Initial mail for participation               | Done    |
+ |      |                                       |                      | which would be forwarded to all              |         |
+ |      |                                       |                      | students by the NCs                          |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   2. | Deadline extension mail               | 26th April, 2018     | Based on the inputs from the NCs regarding   | Done    |
+ |      |                                       |                      | their exam ending schedules, dates have been |         |
+ |      |                                       |                      | extended                                     |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   2. | Reminder emails to Ncs for forwarding | 1-4th May, 2018 &    | 2 reminder emails to keep up enthusiasm      | Pending |
+ |      | the mails in case they haven't        | 16-17th May 2018     | amongst the NCs and their students           |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   3. | Deadline for                          | 30th May, 2018       | The forms would have the GitLab              | Pending |
+ |      | filling up application forms          | 8:00 A.M. IST        | handle of the students where they            |         |
+ |      |                                       |                      | have logged issues                           |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   4. | Validation and review of the logged   | 30th May-1st June    | Validation document to help in               | Pending |
+ |      | defects by VLEAD team                 | 2018                 | better understanding of the                  |         |
+ |      |                                       |                      | parameters and methods in selecting          |         |
+ |      |                                       |                      | the candidates for the internship            |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   5. | Mail to the selected students for     | 1st June, 2018       | based on the issues reviewed, students       | Pending |
+ |      | the internship and bootcamp (details  |                      | would be selected for internship and         |         |
+ |      | for bootcamp)                         |                      | bootcamp                                     |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   6. | Bootcamp at IIIT H                    | 4th-6th June, 2018   | 3 days bootcamp session at IIITH to be       | Pending |
+ |      |                                       |                      | conducted by VLEAD team, bootcamp            |         |
+ |      |                                       |                      | detailed document would provide the          |         |
+ |      |                                       |                      | insights into the 3 day program              |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   7. | Weekly review process for resolved    | 8th-29th June        | resolving issues, testing them on local      | Pending |
+ |      | issues by VLEAD team                  | 2018                 | environments, weekly review by VLEAD team,   |         |
+ |      |                                       |                      | testing & merging the approved issues        |         |
+ |      |                                       |                      | with develop (by VLEAD team),                |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   8. | Final review and prizes               | 2nd-10th July, 2018  | pushing the changes in production,           | Pending |
+ |      |                                       |                      | result display, prize/certificate            |         |
+ |      |                                       |                      | distribution                                 |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
 
 * Presentation 
-  Please find the [[https://docs.google.com/presentation/d/e/2PACX-1vTFrGFqQntwqI1R5SeuAJOZOurBt72ZKbPEv98xgPWTRfg_Aak5J3-L7y9m82zL-v3N56dCfKeYyCz2/pub?start=false&loop=false&delayms=3000][presentation link]] for the entire process captured and approved. 
+  Please find the [[https://docs.google.com/presentation/d/e/2PACX-1vTFrGFqQntwqI1R5SeuAJOZOurBt72ZKbPEv98xgPWTRfg_Aak5J3-L7y9m82zL-v3N56dCfKeYyCz2/pub?start=false&loop=false&delayms=3000][presentation link]] for the entire process captured
+  and approved. This presentation has the initial dates when this
+  program was proposed to Choppella sir for approval. Later the dates
+  have been extended based on the examination schedules in different
+  Nodal Centers.
 
 * Process
 ** Phase 1 - Issue/Bug logging process (Selection of interns)
    [[https://github.com/vlead/outreach-internship-program/blob/develop/src/intern-selection.org][Link for the document]]
 ** Phase 1 - Validation process by VLEAD team (selection of interns)
-   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/validation.org][Link for the document]]
+   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/phase1-validation.org][Link for the document]]
 ** Phase 2 - Boot camp plan  
-   [[][Link for the document]]
+   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/bootcamp-plan.org][Link for the document]]
 ** Phase 2 - Validation and Review (Selected interns)
-   [[][Link for the document]]
+   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/phase2-validation.org][Link for the document]]
 
 * Draft Mails 
-  [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mail.org][Draft mail to call for interns]] and [[https://github.com/vlead/outreach-internship-program/blob/develop/src/summer-internship-poster.jpeg][Poster]]
-  [[][Draft mail for the reminder of deadline for Application forms]]
+  [[][Initial Draft mail to call for interns] and [[][Initial Poster]
+  [[][Draft mail for the extended deadline of call for interns] and [[][Extended Deadline Poster]
+  [[][Draft mail 1 for the reminder of deadline for Application forms]]
+  [[][Draft mail 2 for the reminder of deadline for Application forms]]
   [[][Draft mail for intermediate communication related to the ongoing issue raising activity]]
   [[][draft mail for the selected candidates with bootcamp details]]
 
