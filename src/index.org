@@ -34,7 +34,7 @@
  |      |                                       |                      | their exam ending schedules, dates have been |         |
  |      |                                       |                      | extended                                     |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
- |   2. | Reminder emails to Ncs for forwarding | 1-4th May, 2018 &    | 2 reminder emails to keep up enthusiasm      | Pending |
+ |   2. | Reminder emails to Ncs for forwarding | 1-4th May, 2018 &    | 2 reminder emails to keep up enthusiasm      | Done    |
  |      | the mails in case they haven't        | 16-17th May 2018     | amongst the NCs and their students           |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
  |   3. | Deadline for                          | 30th May, 2018       | The forms would have the GitLab              | Pending |
@@ -87,13 +87,11 @@
 
   + [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/extended-deadline-draft-mail.org][Draft mail for the extended deadline of call for interns]] and [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/extended-deadline-internship-poster.jpeg][Extended Deadline Poster]]
 
-  + [[][Draft mail 1 for the reminder of deadline for Application forms]]
-
-  + [[][Draft mail 2 for the reminder of deadline for Application forms]]
+  + [[][Draft mail for the reminder of deadline for Application forms]]
 
   + [[][Draft mail for intermediate communication related to the ongoing issue raising activity]]
 
-  + [[][draft mail for the selected candidates with bootcamp details]]
+  + [[][Draft mail for the selected candidates with bootcamp details]]
 
 * Logistics
 ** Prize Money
