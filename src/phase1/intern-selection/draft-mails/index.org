@@ -24,9 +24,9 @@
   reach to as many colleges as possible.
 
 * Draft Mails 
-  + [[./initial-draft-mail.org][Initial Draft mail to call for interns]] and [[][Initial Poster]
+  + [[./initial-draft-mail.org][Initial Draft mail to call for interns]] and [[./initial-summer-internship-poster.jpeg][Initial Poster]]
 
-  + [[][Draft mail for the extended deadline of call for interns] and [[][Extended Deadline Poster]
+  + [[./extended-deadline-draft-mail.org][Draft mail for the extended deadline of call for interns]] and [[][Extended Deadline Poster]
 
   + [[][Draft mail for the reminder of deadline for Application forms]
 
