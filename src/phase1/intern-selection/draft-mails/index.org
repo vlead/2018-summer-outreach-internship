@@ -26,11 +26,11 @@
 * Draft Mails 
   + [[./initial-draft-mail.org][Initial Draft mail to call for interns]] and [[./initial-summer-internship-poster.jpeg][Initial Poster]]
 
-  + [[./extended-deadline-draft-mail.org][Draft mail for the extended deadline of call for interns]] and [[][Extended Deadline Poster]
+  + [[./extended-deadline-draft-mail.org][Draft mail for the extended deadline of call for interns]] and [[./extended-deadline-internship-poster.jpeg][Extended Deadline Poster]]
 
-  + [[][Draft mail for the reminder of deadline for Application forms]
+  + [[./reminder-mail1.org][Draft mail for the reminder of deadline for Application forms]]
 
-  + [[][Draft mail for intermediate communication related to the ongoing issue raising activity]
+  + [[ 	reminder-mail-for-issue-raising.org][Draft mail for intermediate communication related to the ongoing issue raising activity]]
 
   + [[][Draft mail for the selected candidates with bootcamp details]]
 
