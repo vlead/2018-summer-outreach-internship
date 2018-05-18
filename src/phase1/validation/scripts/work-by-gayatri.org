@@ -1,5 +1,5 @@
 
-cumentation of work done.
+Documentation of work done.
 Issue migration from gitlab to Github.
 
   Started the process by searching for API’s on the web for direct migration of issues along with tags and labels.
