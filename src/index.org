@@ -73,26 +73,8 @@
   Nodal Centers.
 
 * Process
-** Phase 1 - Issue/Bug logging process (Selection of interns)
-   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/intern-selection.org][Link for the document]]
-** Phase 1 - Validation process by VLEAD team (selection of interns)
-   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/phase1-validation.org][Link for the document]]
-** Phase 2 - Boot camp plan  
-   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/bootcamp-plan.org][Link for the document]]
-** Phase 2 - Validation and Review (Selected interns)
-   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/phase2-validation.org][Link for the document]]
-
-* Draft Mails 
-  + [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/initial-draft-mail.org][Initial Draft mail to call for interns]] and [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/initial-summer-internship-poster.jpeg][Initial Poster]]
-
-  + [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/extended-deadline-draft-mail.org][Draft mail for the extended deadline of call for interns]] and [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/extended-deadline-internship-poster.jpeg][Extended Deadline Poster]]
-
-  + [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/reminder-mail1.org][Draft mail for the reminder of deadline for Application forms]]
-
-  + [[https://github.com/vlead/outreach-internship-program/blob/develop/src/draft-mails-and-posters/reminder-mail-for-issue-raising.org][Draft mail for intermediate communication related to the ongoing issue raising activity]]
-
-  + [[][Draft mail for the selected candidates with bootcamp details]]
-
+** [[./phase1][Phase 1]]
+** [[./phase2][Phase 2]] 
 * Logistics
 ** Prize Money
    + Phase 1 : Top 10 students would be awarded with prizes based on
