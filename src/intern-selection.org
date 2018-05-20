@@ -30,9 +30,7 @@
            members to invite" section. 
         7) Select "master" for "Choose a role permission"
            field.
-        8) Set the "Access expiration date" as "*09 May,
-           2018*
-        9) Click on "*Add to project*".
+        8) Click on "*Add to project*".
 
 ** Step 2
   1) Go to the [[www.http://vlabs.ac.in][Virtual Labs website]] and hover on Institutes

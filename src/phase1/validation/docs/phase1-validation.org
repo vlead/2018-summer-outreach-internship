@@ -1,0 +1,135 @@
+#+TITLE: Phase 1 : Validation of raised issues
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-12 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes the process followed for validating the
+  issues raised by the students in the phase 1.
+
+* Plan of action
+  The deadline for submitting the application forms is 7th May 2018,
+  8:00 a.m. IST. This means that by that time all the interested
+  students would have logged all the defects in their own gitLab
+  profiles. The following steps would be carried as described below :
+
+  + VLEAD team (Lalit, Sanchita, Mrudhvika and Gayatri) is the core
+    team which would carry out the tasks of mentoring, reviewing and
+    validating the issues raised as well resolved later in the further
+    phases.
+  + For phase 1 validation, criteria has been designed to select the
+    issues raised by all the students based on the certain parameters.
+  + The selected issues would be pulled out from the students profiles
+    and put in a single repository in Github along with their labels
+    and all the content. (automated script required)
+  + Once the issues are put in a single bucket, an automated script
+    would filter out the issues which are duplicates or refer to
+    spelling mistakes. Other parameters to filter are described in
+    detail in sections below.
+  + After the issues are filtered out and selected for the phase 2,
+    they would be migrated to the respective lab repositories in
+    Github. (automated script required)
+  + These issues would now be labelled as *open* for the selected
+    interns to resolve.
+
+* Validation and review process
+  Once the process of raising the issues is finished validating them
+  has to be done. The following are the proposed methodologies for
+  validating issues
+** Methodology 
+   We have the student GitLab profile links with us, we are also added
+   in this project where we need to select the issues which are valid
+   out of all the issues raised by the student. An automated
+   script/program is required for carrying out the following steps in
+   an iterative manner : 
+
+   Step 1 : We need to traverse from the GitLab links to their issues
+   and all the issues would be numbered from 1 onwards.  
+
+   Step 2 : Once we have reached to the listed issues, labname keyword
+   matching (from the issue name, naming convention followed for the
+   issue creation is - <lab_name>_<experiment_name>_<sub section of
+   experiment where the bug is detected>) to be carried out.
+
+   Step 3 : All the issues across different student profiles with the
+   same <lab_name> needs to be filtered out and kept in a single
+   bucket. This bucket would contain the issue links for such
+   issues. Exceptions in this could be single issue in a bucket for a
+   lab, i.e. only one student has raised a single issue for a
+   particular lab and there is no other issue for that lab.
+
+   Step 4 : Now again the keyword matching would be done for a single
+   bucket with same <experiment_name>. This bucket would contain the
+   issue links for the issues which have same <lab_name> and
+   <experiment_name>. Exceptions in this could be single issue in a
+   bucket for a lab and an experiment, i.e. only one student has
+   raised a single issue for a particular lab and a particular
+   experiment and there is no other issue for that experiment.
+
+   Step 5 : this would be again a keyword matching done for a single
+   bucket with same <sub section of experiment where the bug is
+   detected>. From all the above steps, now a single bucket would
+   contain all the issues (links) which are from the same lab, same
+   experiment and on same subsections.
+
+   Step 6 : Till this step, we have now less number of issues which
+   belong to same lab, same experiment and same subsection in an
+   experiment. A final keyword matching to be done on the *Defect
+   Description* section inside an issue. The keywords matched with
+   terms like *spelling mistakes*, *grammatical error*, *wrong
+   spelling*, *Full Screen button* should be filtered out with
+   *Invalid issues* tag. All other issues would come under *Valid
+   issues* tag.
+
+   Step 7 : To avoid duplication - Out of all the identified *Valid
+   issues* , first match the *Type of Issues* label, if found same for
+   multiple issues, match the *Weight* given in the issue (0-9). There
+   are less chances that even copied issues would have same labels and
+   given the same weight. At this point we can also use some existing
+   tool for the duplicate identification in the whole issue if 2
+   issues are found exactly the same till Step 7.
+
+   Step 8 : All the *Valid issues* tagged issues needs to be migrated
+   to the respective lab repositories in GitHub : virtual-labs
+   organisation based on their <lab_name>.
+
+   Step 9 : There would be a small manual task involved where we have
+   to visit all the 20 IIIT-H labs repos in Github after migration of
+   issues and assign the severity labels based on the issue logged and
+   the *type of issues* label already assigned by the students.
+
+   *NOTE* : There would not be any issue assignment to any
+   intern. They would pick up the issues on their own. This
+   communication would be made very clear to them in their Boot Camp.
+  
+** Challenges
+   + Migration of issues from GitLab to GitHub. For the Phase 1
+     validation, we are still doing it in GitLab itself, but migrating
+     the issues later into the respective lab repos in Github is still
+     a challenge in front of us.
+
+  + The student doesn't follow the issue logging process. If the
+    logged issues are not in the format we have explicitly explained
+    in the documentation or they are still not capable of
+    understanding and following the same, our automated process of
+    validation would fail. Doing the same manually would be a very
+    challenging and time consuming task for the selection of interns.
+ 
+  + Assigning the severity labels to the selected issues after
+    migrating them to the respective lab repos is still a manual
+    task. Categorising the issues based on severity levels
+    automatically is still a challenge.
+  
+** Points of failure
+
+   All the above mentioned challenges could become a point of failure
+   for the entire program or derail it from the set timeline.
+
+* Conclusion
+  After the validation process, the issues would be finalized and the
+  students would pick them up for resolving them.
+  
+

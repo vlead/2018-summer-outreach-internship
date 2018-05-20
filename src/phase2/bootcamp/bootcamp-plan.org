@@ -75,8 +75,8 @@
 * Contact Information
   Please contact the VLEAD Team at internship@vlabs.ac.in
 * Conclusion
-  After the validation process, the issues would be
-  finalized and assigned to the students for resolving them.
+  After the 3 days boot camp, the students would pick the 
+  issues and start resolving them.
   
 
 

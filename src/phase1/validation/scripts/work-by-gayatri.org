@@ -1,0 +1,40 @@
+
+Documentation of work done.
+Issue migration from gitlab to Github.
+
+  Started the process by searching for API’s on the web for direct migration of issues along with tags and labels.
+  Found two API’s but they needed a local instance of gitlab hosted on one of our servers.
+  This would not be possible with the repositories of the
+    students applying for the internship.
+  The other way was to download all the issues into a csv
+    file and then upload the file on Github.
+  Found an add-on for google sheets which automatically
+    downloads all issues in the given repository into the
+    file. This file can be downloaded in csv format.
+  The saved csv file can now be uploaded to github with a
+    script available.
+  The script and directions for using the add-on are on this
+    link:
+    https://github.com/gayatripurigilla/Issue-migrate-gitlab-to-github
+
+Validation and review
+
+  All the issues are already available in the csv file
+    downloaded in the above step.
+  Wrote a bash script for the segregation of issues based
+    on lab_name, exp_name and then finally based on the
+    subsection of the experiment where the bug is found.
+  When this script is run the issues belonging to the same
+    subsection of the same experiment of the same lab are put
+    into one bucket.
+  The script first creates a lab-bucket with all the labs as
+    directories and the issues related to each lab in their
+    respective directory. This is done recursively for
+    experiments and sub-sections in the experiments as well.
+  This can now be easily transferred to the respective
+    lab-repos on github using the script mentioned above.
+
+Work to be done
+
+  Tagging of issues: Valid or invalid
+  Plagiarism check.
