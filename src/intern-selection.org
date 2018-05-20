@@ -33,9 +33,10 @@
         8) Click on "*Add to project*".
 
 ** Step 2
-  1) Go to the [[www.http://vlabs.ac.in][Virtual Labs website]] and hover on Institutes
-     option in the header and click on IIIT-Hyderabad to
-     access the labs to be tested
+  1) Go to the [[www.http://vlabs.ac.in][Virtual Labs website]] and click on
+     IIIT-Hyderabad institute available in the Participating 
+     institute in the left corner of the webpage to access
+     the labs to be tested.
   2) Select a lab and start exploring the features of the
      experiments and the content
   3) While exploring the lab ,you may encounter the issues
