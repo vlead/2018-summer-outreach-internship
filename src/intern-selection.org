@@ -119,7 +119,7 @@
       they won't be given any weightage.
 
 * Time limit for raising issues
-   The students are allowed to log defects till *7th May*
+   The students are allowed to log defects till *30th May*
    2018, 08:00
    A.M. IST.
    
