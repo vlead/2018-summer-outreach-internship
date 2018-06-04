@@ -104,6 +104,19 @@
    *NOTE* : There would not be any issue assignment to any
    intern. They would pick up the issues on their own. This
    communication would be made very clear to them in their Boot Camp.
+
+** Methodolgy for assigning S1, S2 and S3 labels to the valid tagged issues
+   The following steps would be carried out in an automated manner to
+   assign S1,S2 and S3 labels to the filtered valid issues from the
+   student GitLab accounts after we have done all the plagiarism and
+   duplicacy checks :
+   
+   Step 1 : S3 label 
+   + Feedback section
+   + Submit button in quizzes and Feedback
+   + broken links
+
+   Step 2 : 
   
 ** Challenges
    + Migration of issues from GitLab to GitHub. For the Phase 1

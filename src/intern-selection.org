@@ -99,29 +99,23 @@
       + *Content* - This label refers to the content which is not
         comprehensible or has some mistakes, otherwise a new content
         needs to be added in case of incomplete information.    
-      + *UI* - This label refers to the case where there are any user
-        interface related problems like broken links or buttons not
-        functioning.
       + *Functionality* - This label refers to the issues where the
-        features are not working.
-   The Severity of the issue/defect/bug should specified at
-   "*Weight*". Based on the severity level of the issue select
-   the value ranging from *No Weight* to *9*
+        features are not working. Any user interface related problems
+        like broken links or buttons not functioning would also be
+        labelled as Functionality.
    
 ** Step 5         
   The following mentioned issues would be considered invalid
-   1) Full Screen button on experiment simulations doesn't
-      open in the new tab, instead we have to copy the URL
-      in a new browser window in order to open the
-      simulations. This is a known issue to us.
+   1) The Feedback submit is not working across all the labs and
+      experiments, this is again a known issue to us. It won't be
+      considered as valid.
    2) We are not focussing on spelling mistakes and
       grammatical errors, even if such issues are raised
-      they won't be given any weightage.
+      they won't be given much weightage.
 
 * Time limit for raising issues
    The students are allowed to log defects till *30th May*
-   2018, 08:00
-   A.M. IST.
+   2018, 08:00 A.M. IST.
    
 * Perks and Prize money
    Top 10 students would be awarded with prizes based on the
