@@ -9,7 +9,7 @@
 * Introduction
   This document describes the process to be followed by the selected
   interns/interested students who wish to contribute to the open
-  source community followed for resolving the issues raised by them.
+  source community for resolving the issues raised by them.
 
 * Link for lab code repositories
   Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad lab code repositories
