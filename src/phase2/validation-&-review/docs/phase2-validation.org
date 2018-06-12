@@ -19,52 +19,51 @@
   existing here and pick the ones for which you have raised
   issues. 
 
-  All the issues which we reviewed to be correct and valid are
-  migrated in these repos from the your personal GitLab accounts. You
-  are free to pick up any issues whether they are raised by you or by
-  any other student. We are not assigning any issue to anybody.
+  All the issues after review and found valid are migrated in these
+  repos from the your personal GitLab accounts. You are free to pick
+  up any issues whether they are raised by you or by any other
+  student. We are not assigning any issue to anybody.
 * Status of issues
   At any given time an issue should only be in one of the below
   described states. To change the state of a issue, the current status
   label of the issue should be unchecked and the new status label
   should be checked. All the below described labels would not be
   existing in the beginning. They need to be created initially and
-  then can be used as and when you keep responding on the same issue.
+  then can be used further.
 
-  - Open : This label indicates that when an issue is
+  - *Open* : This label indicates that when an issue is
     logged and posted for the first time, it would be
     labelled as 'Open'.
 
-  - In Progress : This label indicates that Open issues
+  - *In Progress* : This label indicates that Open issues
     while being worked upon by the student/intern would be
     labelled as 'In Progress'.
 
-  - Fixed : This label indicates that the issue has been fixed by the
+  - *Fixed* : This label indicates that the issue has been fixed by the
     student in their forked GitHub repository. Only the students can
     mark the issue as fixed. Validators would only validate fixed
     issues.
 
-  - Resolved : This label indicates that when validators
-    validates/verifies the fixes then they can label the issue as
-    Resolved. The students as well as the validators can mark the
-    issue as Resolved.
+  - *Resolved* : This label indicates that when validators reviews the
+    fixes then they can label the issue as Resolved. Only the
+    validators can mark the issue as Resolved.
 
-  - Reopen : This label indicates that if an issue surfaces during
-    testing in the staging and production environments, the VLEAD team
-    would label it as 'Reopen'.
+  - *Reopen* : This label indicates that if an issue surfaces during
+    testing in the staging and production environments, the Virtual
+    Labs team would label it as 'Reopen'.
 
-  - Closed : This label indicates that Resolved issues would be
-    labelled as 'Closed' by the VLEAD team members after they pass the
-    deployment tests. This label means that the issue is resolved,
-    tested and approved and is ready to go for production deployment.
+  - *Closed* : This label indicates that Resolved issues would be
+    labelled as 'Closed' by the Virtual Labs team members after they
+    pass the deployment tests. This label means that the issue is
+    resolved, tested and approved and is ready to go for production
+    deployment.
 
 * Steps to be followed by the interns
   + Step 1 - Choose a lab for which you want to start resolving the
-    issues. Go to the lab repository in [[https://github.com/virtual-labs/][GitHub]] and select the
-    respective lab repository.
+    issues. Select the lab repository from [[https://github.com/virtual-labs/][GitHub]].
   + Step 2 - Fork the lab repository so that you have the local copy
     of the lab codebase in your machine.
-  + Step 3 - Go to the issues section from the repo and pick up the
+  + Step 3 - Go to the issues section in the repo and pick up the
     issue you want to start resolving. Label the issue as *open*.
   + Step 4 - Make changes in your forked copy of the lab repo, [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]]
     the changes and create a pull request.
@@ -78,13 +77,13 @@
     the fixes and respond on the same issue with the comment that the
     issue fix is correct.
   + Step 7 - Once the issue gets reviewed and okayed by the 2
-    validators, the virtual labs team would review the fix for the
+    validators, the Virtual Labs team would review the fix for the
     final acceptance. If the issue fix is accepted by the Virtual Labs
     team also, it would be labelled as *resolved*.
-  + Step 8 - After you see the issue labelled as *resolved*, if more
+  + Step 8 - After you see the issue labelled as *resolved* and more
     than one student was working on the issue simultaneously, consider
-    the issue as fixed and reviewed and hence no more fixes would be
-    accepted after this by any other student.
+    that the issue is fixed no more fixes would be accepted by any
+    other student.
   + Step 9 - Switch to some other issue when you see an issue labelled
     as *resolved*. It would still not be marked as *closed* because it
     would be undergoing the deployment testing by the Virtual Labs
