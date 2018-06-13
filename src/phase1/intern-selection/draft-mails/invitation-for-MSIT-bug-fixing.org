@@ -2,7 +2,7 @@ Dear Students,
 
 Congratulations on getting selected for the Internship @ Virtual Labs!!
 
-We now require you to start fixing the issues logged during Bugathon. Please go through the document and follow the steps for fixing and validating the issues/ bugs.
+We now require you to start fixing the issues logged during Bugathon. Please go through the [[https://github.com/vlead/outreach-internship-program/blob/develop/src/phase1/intern-selection/draft-mails/invitation-for-MSIT-bug-fixing.org][document]] and follow the steps for fixing and validating the issues/ bugs.
 
 All the best.
 
