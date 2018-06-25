@@ -17,28 +17,28 @@
   be fixed would have a naming convention of <labname>-iiith. Please
   go through the following listed lab repos and start validating the
   fixes for the labs assigned to you :
-  + Artificial Neural Networks : 07
-  + Basic Structural Analysis : 16
-  + Colloid Dichroism Spectroscopy : 10
-  + Colloid and surface Chemistry : 05
-  + Computational Linguistics : 02
-  + Computer Graphics : 17
-  + Computer Organisation : 13
-  + Computer Programming Responsive : 75
-  + Cryptography : 27
-  + Image Processing : 02
-  + Molecular Absorption Spectroscopy : 05
-  + Molecular Flouroscence Spectroscopy : 04
-  + Molecular Interactions : 02
-  + Natural Language Processing : 09
-  + Pattern Recognition : 11
-  + Physical Chemistry : 18
-  + Problem solving : 75
-  + Quantum Chemistry : 15
-  + Soil Mechanics : 09
-  + Speech Signal Processing : 09
-  + Structural Dynamics : 12
-  + VLSI : 31
+  + Artificial Neural Networks : 07 - Swapnil
+  + Basic Structural Analysis : 16 - Devansh
+  + Colloid Dichroism Spectroscopy : 10 - Daksh
+  + Colloid and surface Chemistry : 05 - Daksh
+  + Computational Linguistics : 02 - Rachit
+  + Computer Graphics : 17 - Rachit
+  + Computer Organisation : 13 - Keshavan
+  + Computer Programming Responsive : 75 - Ananya, Surendra, Sumaid
+  + Cryptography : 27 - Uday
+  + Image Processing : 02 - Mayank Tanuja
+  + Molecular Absorption Spectroscopy : 05 - Ananya
+  + Molecular Flouroscence Spectroscopy : 04 - Surendra
+  + Molecular Interactions : 02 - Sumaid
+  + Natural Language Processing : 09 - Shaurya
+  + Pattern Recognition : 11 - Sanjana
+  + Physical Chemistry : 18 - Debojit
+  + Problem solving : 75 - Sanjana, Swapnil, Keshavan
+  + Quantum Chemistry : 15 - Mayank Modi
+  + Soil Mechanics : 09 - Mayank Modi
+  + Speech Signal Processing : 09 - Druv
+  + Structural Dynamics : 12 - Druv
+  + VLSI : 31 - Mayank Tanuja
 
 
   All the number of issues listed against each lab name might not be
@@ -90,18 +90,13 @@
     This is an iterative cycle and it goes on till you validate all
     the issues fixed in the lab assigned to you. Based on your final
     reviews, the other students who are providing the fixes would be
-    evaluated and points would be given to them. Based on your
-    reviews, you would also be awarded points and maybe awarded with
-    surprise gifts at the end of this process. This activity would be
-    carried out on every Mondays, Tuesdays and Wednesdays for you in
-    your current internship schedule itself. It is expected to go on
-    till 4th July, 2018. It should not take more than 1.5 hr/day if you
-    do it diligently for the above mentioned period.
+    evaluated and points would be given to them. This activity would
+    be carried out on every Mondays, Tuesdays and Wednesdays for you
+    in your current internship schedule itself. It is expected to go
+    on till 4th July, 2018. It should not take more than 1.5 hr/day if
+    you do it diligently for the above mentioned period.
 
 * Conclusion
   After the validation process, the issues would be considered as
-  resolved and moved to production. Based on the first fix provided by
-  the student, they would be ranked every week. At the end of 5 weeks,
-  we should be able to close the issues which have been moved to
-  production and that would mark the end of the internship for the
-  selected candidates.
+  resolved and moved to production. At the end of this we should be
+  able to close the issues which have been moved to production.
