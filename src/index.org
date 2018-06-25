@@ -37,30 +37,39 @@
  |   2. | Reminder emails to Ncs for forwarding | 1-4th May, 2018 &    | 2 reminder emails to keep up enthusiasm      | Done    |
  |      | the mails in case they haven't        | 16-17th May 2018     | amongst the NCs and their students           |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
- |   3. | Deadline for                          | 30th May, 2018       | The forms would have the GitLab              | Pending |
+ |   3. | Deadline for                          | 30th May, 2018       | The forms would have the GitLab              | Done    |
  |      | filling up application forms          | 8:00 A.M. IST        | handle of the students where they            |         |
  |      |                                       |                      | have logged issues                           |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
- |   4. | Validation and review of the logged   | 30th May-1st June    | Validation document to help in               | Pending |
- |      | defects by VLEAD team                 | 2018                 | better understanding of the                  |         |
+ |   4. | Bug-a-thon                            | 5th June, 2018       | Issues will be logged by the students based  | Done    |
+ |      |                                       |                      | on that prizes/cash award will be given      |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   5. | Validation and review of the logged   | 5th  June, 2018      | Validation document to help in               | Done    |
+ |      | defects by VLEAD team                 |                      | better understanding of the                  |         |
  |      |                                       |                      | parameters and methods in selecting          |         |
  |      |                                       |                      | the candidates for the internship            |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
- |   5. | Mail to the selected students for     | 1st June, 2018       | based on the issues reviewed, students       | Pending |
+ |   6. | Mail to the selected students for     | 5st June, 2018       | based on the issues reviewed, students       | Done    |
  |      | the internship and bootcamp (details  |                      | would be selected for internship and         |         |
  |      | for bootcamp)                         |                      | bootcamp                                     |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
- |   6. | Bootcamp at IIIT H                    | 4th-6th June, 2018   | 3 days bootcamp session at IIITH to be       | Pending |
+ |   7. | Bootcamp at IIIT H                    | 6th-8th June, 2018   | 3 days bootcamp session at IIITH to be       | Done    |
  |      |                                       |                      | conducted by VLEAD team, bootcamp            |         |
  |      |                                       |                      | detailed document would provide the          |         |
  |      |                                       |                      | insights into the 3 day program              |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
- |   7. | Weekly review process for resolved    | 8th-29th June        | resolving issues, testing them on local      | Pending |
+ |   8. | Weekly review process for resolved    | 15th June - 13 July, | resolving issues, testing them on local      | Done    |
  |      | issues by VLEAD team                  | 2018                 | environments, weekly review by VLEAD team,   |         |
  |      |                                       |                      | testing & merging the approved issues        |         |
  |      |                                       |                      | with develop (by VLEAD team),                |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
- |   8. | Final review and prizes               | 2nd-10th July, 2018  | pushing the changes in production,           | Pending |
+ |   9. | 1st week review                       | 15th June, 2018      | Setting up ubuntu, clarifying doubts on git, | Done    |
+ |      |                                       |                      | creating pull request and other queries      |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  10. | 2nd Week review                       | 22nd June, 2018      | Presentation on Shell scripting, bash and    | Done    |
+ |      |                                       |                      | other queries                                |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  11. | Final review and prizes               | 2nd-13th July, 2018  | pushing the changes in production,           | Pending |
  |      |                                       |                      | result display, prize/certificate            |         |
  |      |                                       |                      | distribution                                 |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
