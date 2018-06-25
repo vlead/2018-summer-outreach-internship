@@ -69,6 +69,12 @@
  |  10. | 2nd Week review                       | 22nd June, 2018      | Presentation on Shell scripting, bash and    | Done    |
  |      |                                       |                      | other queries                                |         |
  |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  11. | 3rd Week review                       | 29th June, 2018      | Status of issues resolved, distributing      | Pending |
+ |      |                                       |                      | prize money                                  |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  12. | 4th Week review                       | 06th July, 2018      | Presentation on Angular                      | Pending |
+ |      |                                       |                      |                                              |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
  |  11. | Final review and prizes               | 2nd-13th July, 2018  | pushing the changes in production,           | Pending |
  |      |                                       |                      | result display, prize/certificate            |         |
  |      |                                       |                      | distribution                                 |         |

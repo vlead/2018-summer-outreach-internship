@@ -15,9 +15,9 @@
   the labs.
 * Venue, Date and Time
   - Venue : IIIT-Hyderabad
-  - Start Date : 09-05-2018
-  - End Date : 11-05-2018
-  - Time : 10:00 AM to 04:00 PM
+  - Start Date : 06-06-2018
+  - End Date : 09-06-2018
+  - Time : 09:00 AM to 06:00 PM
 * Participants
   - Shortlisted candidates from the [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org#phase-1---issuebug-logging-process-selection-of-interns][Phase 1/Validation process]]
 * Goals
@@ -27,16 +27,27 @@
 * Integration Document
   [[][Link for document]]
 * Plan of action
+  - Bugathon
+    09:00 A.M. - Introduction to Virtual Labs and recalling
+    the steps to be followed on gitlab.
+    11:00 A.M. - Tea break
+    11:15 A.M. - Raising issues
+    01:00 P.M. - Lunch break
+    02:00 P.M. - Announcing Leaderboard
+    02:30 P.M. - Raising Issues
+    05:30 P.M. - Announcing Winners
+    06:00 P.M. - Announcing internship students
+ 
   - Day 1
-    10:00 AM - Welcome address /Introduction
-    10:30 AM - Discussion about the tasks to be done during
-    the 3 week process of internship.
-    11:00 AM - Setup the development environment for fixing
-    the bugs.
-    01:00 PM - LUNCH
-    02:00 PM - A brief description about the github and the
+    09:00 AM - Welcome address /Introduction
+    10:30 AM - A brief description about the github and the
     process of use and make a commit after the code fix is
-    done. 
+    done
+    11:00 P.M. - Tea break.
+    01:00 P.M. - LUNCH.
+    02:00 P.M. - Basics and revision of Java.
+    04:00 P.M. - Tea break.
+    06:00 P.M. - Assignment on Java.
     
     Reference : Github link for the lab code repositories
     Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad labs code
@@ -45,24 +56,26 @@
     of *<labname>-iiith* 
     
   - Day 2 
-    10:00 AM - Description about the Java and JavaScript
-    dependencies for fixing the bugs.
-    11:30 AM - A brief description about the process of
-    resolving the issues
-    01:00 PM - LUNCH
-    02:00 PM - Students work on fixing bugs.
+    09:00 A.M. - Revision of JavaScript and fixing the bugs.
+    11:15 P.M. - Tea break.
+    11:30 A.M. - A brief description about the process of
+    resolving the issues.
+    01:00 P.M. - LUNCH.
+    02:00 P.M. - Explaining the way to resolve the issue.
+    04:00 P.M. - Tea break.
+    06:00 P.M. - Assignment in resolving issues.
  
   - Day 3
-    10:00 AM - Any assistance needed in resolving bugs.
-    11:15 AM - Testing the fixed bugs 
-    01:00 PM - LUNCH
-    02:00 PM - Steps to create a pull request in git
-    04:00 PM - A quick recap for the bug fixing process. 
-
+    10:00 A.M. - Any assistance needed in resolving bugs.
+    11:15 A.M. - Tea break
+    11:30 A.M. - Resolving bugs.
+    01:00 P.M. - LUNCH
+    02:00 P.M. - Steps to create a pull request in git
+    04:00 P.M. - A quick recap for the bug fixing process.
+    06:00 P.M. - Concluding boot camp. 
 
 * Prerequisites for the participants
-  - OS?
-  - emacs?
+  - OS - Ubuntu 14.04
   - Setup git 
 * Post-workshop Activities
   Refer the document for [[][Document]]
