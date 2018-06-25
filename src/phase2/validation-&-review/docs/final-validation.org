@@ -1,0 +1,107 @@
+#+TITLE: Phase 2 : Final Validation of fixed issues
+#+AUTHOR: VLEAD
+#+DATE: [2018-06-25 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes the process to be followed by the VLEAD,
+  IIIT Hyderabad interns for providing the final validation to the
+  resolved issues raised by Outreach Internship Program interns.
+
+* Lab code repositories
+  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad lab code repositories
+  for the validation process. The IIIT hyderabad labs which needs to
+  be fixed would have a naming convention of <labname>-iiith. Please
+  go through the following listed lab repos and start validating the
+  fixes for the labs assigned to you :
+  + Artificial Neural Networks : 07
+  + Basic Structural Analysis : 16
+  + Colloid Dichroism Spectroscopy : 10
+  + Colloid and surface Chemistry : 05
+  + Computational Linguistics : 02
+  + Computer Graphics : 17
+  + Computer Organisation : 13
+  + Computer Programming Responsive : 75
+  + Cryptography : 27
+  + Image Processing : 02
+  + Molecular Absorption Spectroscopy : 05
+  + Molecular Flouroscence Spectroscopy : 04
+  + Molecular Interactions : 02
+  + Natural Language Processing : 09
+  + Pattern Recognition : 11
+  + Physical Chemistry : 18
+  + Problem solving : 75
+  + Quantum Chemistry : 15
+  + Soil Mechanics : 09
+  + Speech Signal Processing : 09
+  + Structural Dynamics : 12
+  + VLSI : 31
+
+
+  All the number of issues listed against each lab name might not be
+  exact as few of them were found to be duplicates after we migrateda
+  them to GitHub lab repos. These are near to accurate numbers. We
+  would assign labs to each and every intern based on a random
+  selection. If some student happens to get a lab with very few
+  issues, you are free to collaborate with other fellow intern who has
+  large number of issues in their lab. 
+
+* Steps to be followed by the interns
+  + Step 1 - Go to the issues section in the assigned lab repo and
+    start looking for the issues which are being opened by
+    gayatripurigilla. You have to validate the fixes in these issues
+    only. Look only for the *Open* issues. the closed ones in this are
+    no longer valid for us. Do not filter and try to comment on other
+    issues. For Example : [[https://github.com/virtual-labs/computer-programming-responsive-iiith/issues/158][Sample issue]]
+  + Step 2 - In every such issue, you would find a commit id and
+    responses from 2 different members saying that it is a valid
+    fix. Only if an issue has all these 3 properties, you should start
+    your final validation. If there is only 1 member's response saying
+    that its a valid fix, do not start validating that issue. Having 2
+    valid fix comments in every issue is mandatory for you to go
+    ahead. 
+  + Step 3 - Go through the issue raised with all the description to
+    understand the problem very clearly so that you are in a position
+    to review the code for the fixes.
+  + Step 4 - After the identification of such issue, click on the
+    commit id provided in the earlier responses and go through the
+    code given for the fix.
+  + Step 5 - The next step for you to carry out is testing the fix on
+    the identical production environment. Setup [[https://github.com/vlead/setup-ovpl-centos/blob/develop/user-docs/run-ads-using-vagrant-box.org][Auto Deployment
+    Service]] on your local machines and follow the document carefully
+    to deploy the lab. Once this is successful and the lab runs
+    identically as on [[https://vlab.co.in][vlab.co.in]] we can move it to our AWS servers for
+    final deployment.
+  + Step 6 - If you find that the given fix is incorrect, please
+    comment on the same issue. If you find that the 2 other
+    validations are also incorrect, comment on the same issue itself.
+  + Step 7 - If you think that the fix given is correct, you have
+    tested it on your local machines and it should be moved to
+    production, kindly comment in the same issue " *Fix is validated and
+    can be moved to production* ".
+  + Step 8 - Once the issue is ready to be moved to production from
+    your side, there won't be any other person reviewing it. It would
+    directly be made available to the end users. The issue would be
+    marked as *Closed* after this.
+
+    This is an iterative cycle and it goes on till you validate all
+    the issues fixed in the lab assigned to you. Based on your final
+    reviews, the other students who are providing the fixes would be
+    evaluated and points would be given to them. Based on your
+    reviews, you would also be awarded points and maybe awarded with
+    surprise gifts at the end of this process. This activity would be
+    carried out on every Mondays, Tuesdays and Wednesdays for you in
+    your current internship schedule itself. It is expected to go on
+    till 4th July, 2018. It should not take more than 1.5 hr/day if you
+    do it diligently for the above mentioned period.
+
+* Conclusion
+  After the validation process, the issues would be considered as
+  resolved and moved to production. Based on the first fix provided by
+  the student, they would be ranked every week. At the end of 5 weeks,
+  we should be able to close the issues which have been moved to
+  production and that would mark the end of the internship for the
+  selected candidates.
