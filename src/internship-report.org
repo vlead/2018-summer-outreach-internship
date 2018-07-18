@@ -1,0 +1,242 @@
+#+Title: Outreach Internship Report 
+#+Date: [2018-07-17 Tue]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+* Introduction
+  This document captures the overall report for Outreach
+  Internship at VLEAD.
+
+* Executive Summary 
+  The objective of the outreach internship at VLEAD was to improve the
+  existing Virtual Labs of IIITH as well as engage the Nodal Centers
+  in the outreach process. It was decided to offer a 6-8 weeks of
+  internship program for the selected students to accomplish the same.
+  The plan was to hire around 20-30 interns and have them fix the bugs
+  which were supposed to be raised as part of their selection
+  process. The entire program was divided into 2 phases : 
+
+  + Phase 1 : This included call for the students from 6 different
+    nodal centers and giving them a timeline to raise as many issues
+    as possible from the IIIT Hyderabad labs. During this process,
+    when we couldn't get substantial number of issues raised by the
+    students, we conducted a Bugathon at IIIT H which also included
+    the participation from MSIT students. After this event, we could
+    get 1000+ issues logged which made it a success. Based on the
+    quality of issues raised, they were selected for the internship
+    program.
+
+  + Phase 2 : This phase included the 3 days Bootcamp training for the
+    selected interns. The training was given on GitHub, Javascript and
+    Java by the VLEAD outreach team mentors. After the bootcamp,
+    interns were expected to work remotely in fixing the issues/bugs
+    raised in phase 1 and attend a review meeting every week with the
+    VLEAD team for any problems faced.
+
+   |--------+------------------------------+-------------------|
+   | Sl No. | Events                       | number            |
+   |--------+------------------------------+-------------------|
+   |      1 | Participation call           | 6 NCs             |
+   |--------+------------------------------+-------------------|
+   |      2 | Number of students           | 71                |
+   |        | applied through Google       |                   |
+   |        | Forms                        |                   |
+   |--------+------------------------------+-------------------|
+   |      3 | Number of students who       | 118               |
+   |        | attended the Bugathon        | 94 MSIT+24 others |
+   |--------+------------------------------+-------------------|
+   |      4 | Number of issues logged      | 1015              |
+   |        | after bugathon               |                   |
+   |--------+------------------------------+-------------------|
+   |      5 | Number of students selected  | 26                |
+   |        | for the internship           | 16 others+11 MSIT |
+   |--------+------------------------------+-------------------|
+   |      6 | Number of interns who        | 15 (other college |
+   |        | attended bootcamp            | students)         |
+   |--------+------------------------------+-------------------|
+   |      7 | Number of valid issues given | 315               |
+   |        | for fixing                   |                   |
+   |--------+------------------------------+-------------------|
+   |      8 | Number of issues fixed w/o   | 217               |
+   |        | 3 validations                |                   |
+   |--------+------------------------------+-------------------|
+   |      9 | Number of issues fixed with  |                   |
+   |        | 3 validations                |                   |
+   |--------+------------------------------+-------------------|
+   |     10 | Number of issues not fixed   | 100+              |
+   |--------+------------------------------+-------------------|
+   
+* Outreach Internship Details
+** Facts 
+   [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org][Outreach Internship Program]] started off with the following design :
+**** Phase 1 details
+     + We pitched the idea of involving the Nodal Centers in the
+       outreach process at the same time obtaining the required usage
+       numbers to the Choppella sir through a presentation. It was a
+       pilot project for us as its success would have decided whether
+       this model works for a larger number.
+     + Once there was a go ahead by Prof. Venkatesh Choppella, we sent
+       the invitation mail to all the Nodal Coordinators (6 to be
+       precise) explaining them our idea and how it benefit their
+       students in terms of work exposure and also to us in terms of
+       getting our labs improved.
+     + After the initial invites, we didn't see much activity from the
+       coordinators for few weeks as there was a disconnect between
+       the management of the colleges and their students. Another
+       reason was the exam schedule. We learnt that April,May and June
+       is the peak time for the semester ending exams in all the
+       colleges and the students are busy preparing for that.
+     + This made us change our strategy a bit in the way that instead
+       of only communicating with the coordinators, we started sending
+       reminder mails to the students also once we requested their
+       mail ids from their college departments. After students were
+       engaged in this communication, the word spread in their college
+       and we started seeing good response in terms of google form
+       submissions.
+     + Another major roadblock came when we expected them to
+       understand the selection process which comprised of raising
+       bugs after testing the IIIT H labs. Most of the students just
+       applied through forms but didn't start raising bugs. Seeing
+       this trend for another 3-4 weeks, we were worried that we need
+       to have a backup plan in order to raise the bugs and give a
+       kick start to this project.
+     + This led us to conduct a one day Bugathon @ IIIT H wherein we
+       invited all the students who applied for this program whether
+       they raised any bugs or not. Along with them we also invited
+       MSIT students from IIIT itself to create the environment for a
+       healthy competition amongst all.
+     + We selected 26 interns from the bugathon process including the
+       students who were performing well from the beginning in raising
+       the bugs. We also awarded the top performers with cash prizes.
+     + This marked the end of Phase 1.
+**** Phase II details 
+     + We created a 3 day [[https://github.com/vlead/outreach-internship-program/blob/develop/src/phase2/bootcamp/bootcamp-plan.org][Bootcamp session]] for the selected interns
+       excluding the MSIT students as they are already in their
+       masters program. Total number of interns who attended the
+       bootcamp are 15.
+     + College wise break up of the interns :
+     |--------+-------------------+---------+----------------------------------|
+     | Sl.No. | College Name      |  No. of | Names of interns                 |
+     |        |                   | interns |                                  |
+     |--------+-------------------+---------+----------------------------------|
+     |      1 | Vasavi College of |       7 | Saiteja, Aakarsh, Pranay,        |
+     |        | Engg.             |         | Divija, Deekshitha, Varsha Reddy |
+     |        |                   |         | & Sarika                         |
+     |--------+-------------------+---------+----------------------------------|
+     |      2 | Chaitanya college |       4 | Sharath, Saikrishna, Shaylaja &  |
+     |        |                   |         | Rajeshwari                       |
+     |--------+-------------------+---------+----------------------------------|
+     |      3 | Sreenidhi College |       2 | Aditya & Rajdattu                |
+     |--------+-------------------+---------+----------------------------------|
+     |      4 | Anurag College    |       1 | Varsha C                         |
+     |--------+-------------------+---------+----------------------------------|
+     |      5 | SVNIT, Surat      |       1 | Rashmi G                         |
+     |--------+-------------------+---------+----------------------------------|
+
+     + The bootcamp session included the training on GitHub, Java and
+       Javascript each day. This was an enriching experience for the
+       interns as they became more confident and opened up about their
+       capabilites and expectations from us.
+     + For the next 5 weeks, all of them were expected to start fixing
+       the bugs raised as part of the selection process as well as the
+       bugathon event. None of the issues were assinged to any intern
+       and they were made independent in choosing any issue they wish
+       to start with.
+     + Here came an important learning startegy for us where we saw
+       the opportunity in deploying the Game theory amongst these
+       students. They were only restrained in the part where we would
+       score them based on their fixes for the 5 different severity
+       level issues. We did not reveal them what our severity
+       labelling would be but we still provided them an overview of
+       this QA technique as to how the bugs are labelled as S1, S2, S3
+       and so on.
+***** Weekly description of the internship
+      + Week 1 : We added all the interns in the Slack channel for the
+        common communication. All the 16 interns started resolving the
+        issues raised after the issues were migrated to the respective
+        lab repos from their private GitLab accounts. The other MSIT
+        selected interns neither responded on the slack nor took
+        active participation in this phase. The reason being that they
+        were all on their semester vacations.
+ 
+        This week went very well in terms of number of bugs resolved
+        but most of them picked up broken link issues only as they
+        were least severity level issues. Initially we decided that we
+        would also award the weekly top performer with some cash
+        prize, but that couldn't happen this week as validation
+        process didn't took off very well. On Friday, all of them came
+        for their weekly review.
+      + Week 2 :
+      + Week 3 : 
+      + Week 4 :
+      + Week 5 :   
+
+
+
+
+** Summary & Opinions 
+  Overall the internship has been fruitful with proof of
+  concept for experiment development established. There are
+  a lot of wrinkles ( experiment artifacts, renderer and
+  analytics ) that need to be ironed out which can be done
+  before the start of 2018 winter internship program.
+  
+  Testimonials from the students : 
+
+1.  " I would rate it slightly above average. I found it too
+    dragged out in the beginning but too consisted towards
+    the end and it could have been better spread
+    out. However I learnt the importance of pedagogy and
+    learned the importance of proper documentation. "
+
+2.  " Overall this internship was a great experience for
+    me. I am really thankful i was a part of VLEAD for the
+    summer. I feel much more confident now about my coding
+    skills and know that i can take up challenges and
+    present my work confidently to people. I had the
+    opportunity to interact with my peers and mentors and
+    present and defend my work several times. I am fluent
+    with the entire cycle of software production
+    now. Looking back two months i realize how much i have
+    learnt and am happy to have spent a fruitful summer
+    building a virtual lab for MHRD which can actually be
+    put to production and used by students across."
+
+3.  " This program is really helpful to explore and learning
+    by interacting with different peoples.I really Enjoyed
+    the process and making the design artifact and learning
+    new tools here."
+
+4.  " It was an amazing experience while working as an
+    intern, I got to know a lot of stuff like literate
+    programming, how to write proper docs, my
+    self-confidence increased."
+
+5.  " No need of dividing experiments into groups of
+    two. Cause in most of the times,only one person did the
+    whole experiment.Because once someone starts working on
+    something,partner wasn't able to understand.And one
+    person can definitely finish one experiment on his own
+    if they follow proper guidelines from the beginning."
+
+6. " More interaction between the back-end development and
+   the interns who are only developing the artifacts and
+   working on the virtual lab like a front-end project, if
+   we have been also involved to the back-end development
+   then we would have had a better grasp of hosting the
+   experiments in the end and also would have had a better
+   grasp and experience overall."
+
+7. " I think more frequent discussions between the interns
+   and with mentors would have been better to keep track of
+   what everyone is doing and stay in sink. "
+
+8. " The introduction to the DevOps field is what i feel
+   that has been more useful and interesting the
+   possibilities that it opens up and the easeness that it
+   allows to make development with minimal time and maximum
+   usage of the resources available at hand."
+
+
+ 
