@@ -276,18 +276,51 @@
         
 
 ** Summary & Opinions 
-  Overall the internship has been fruitful with proof of concept for
-  outreach NC engagement along with improvement in the existing
-  labs. There are a lot of wrinkles ( duplicacy and plagiarism
-  detection ,validation process, automated scoring and labelling )
-  that need to be ironed out which can be done before the start of
-  next outreach internship program.
+   Overall the internship has been fruitful with proof of concept for
+   outreach NC engagement along with improvement in the existing
+   labs. There are a lot of wrinkles ( duplicacy and plagiarism
+   detection ,validation process, automated scoring and labelling )
+   that need to be ironed out which can be done before the start of
+   next outreach internship program.
 
-  Final leaderboard along with number of S1,S2,S3,S4 and S5 bugs fixed
-  overall is given below :
+   Final leaderboard along with number of S1,S2,S3,S4 and S5 bugs
+   fixed overall is given below :
   
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   | Sl No. | Name         | S1 | S2 | S3 | S4 | S5 | Fixes | Validation | Total | Grade        |
+   |        |              |    |    |    |    |    | Score |      Score | Score |              |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      1 | Aakarsh      |  0 | 14 | 10 |  5 |  7 |   103 |         28 |   131 | Excellent    |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      2 | Kura Saiteja |  1 |  1 | 17 | 10 | 24 |   104 |         18 |   122 | Excellent    |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      3 | Rajadattu    |  0 |  0 |  0 |  1 | 19 |    21 |         53 |    74 | Good         |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      4 | Sarika       |  1 |  2 |  6 |  1 |  1 |    34 |         35 |    69 | Excellent    |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      5 | Varsha Reddy |  1 |  0 |  2 | 16 |  4 |    47 |         16 |    63 | Excellent    |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      6 | Aditya Goda  |  0 |  0 |  0 |  1 |  3 |     5 |         39 |    44 | Good         |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      7 | Pranay       |  0 |  0 |  1 |  1 |  5 |    10 |         22 |    32 | Good         |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      8 | Rashmi       |  0 |  0 |  1 |  4 | 15 |    26 |          3 |    29 | Satisfactory |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |      9 | Deekshitha   |  0 |  0 |  0 |  3 | 20 |    26 |          3 |    29 | Satisfactory |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |     10 | Divija       |  0 |  0 |  0 |  0 |  5 |     5 |         18 |    23 | Satisfactory |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |     11 | Varsha C     |  0 |  0 |  2 |  0 |  4 |    10 |          4 |    14 | Satisfactory |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |     12 | Sharath      |  0 |  0 |  0 |  0 |  0 |     0 |         13 |    13 | Satisfactory |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |     13 | Saikrishna   |  0 |  0 |  0 |  3 |  5 |    11 |          0 |    11 | Satisfactory |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |     14 | Shylaja      |  0 |  0 |  0 |  0 |  0 |     0 |          0 |     0 | Fail         |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   |     15 | Rajeshwari   |  0 |  0 |  0 |  0 |  0 |     0 |          0 |     0 | Fail         |
+   |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
+   
 
-  Table from Mrudhvika
-  
-  Testimonials from the students : 
+   Testimonials from the students : 
 
