@@ -166,77 +166,128 @@
         would also award the weekly top performer with some cash
         prize, but that couldn't happen this week as validation
         process didn't took off very well. On Friday, all of them came
-        for their weekly review.
-      + Week 2 :
-      + Week 3 : 
-      + Week 4 :
-      + Week 5 :   
+        for their weekly review. Lalit explained the prcoess of
+        validation and how could we do it in terms of game theory. It
+        was modelled in the way wherein in order to accept a solved
+        issue, every resolved issue must have atleast 2 peer
+        validation. Peer validation means, one could be from any
+        interns amongst themselves and another should be from a
+        different college intern amongst themselves.
+      + Week 2 : This week also they picked up many issues which were
+        S4 and S5 only and started solving them. Weekly review
+        happened on Friday again and they shared their challenges in
+        terms of getting 2 validations. During this time we as a team
+        also thought about a final validation process which would mean
+        that the resolved issue can now go into production. This final
+        third validation was decided to be done by the inhouse IIIT
+        interns.
 
+        We thought of giving this responsibility to them as they were
+        all in college campus for the next 2-3 years and we could give
+        them this responsibility because they are capable of it as
+        well as we can have them responsible if their valid fix is not
+        correct after we move the fixes to production. The IIIT
+        interns were involved in this week for doing the final
+        validations. Initially getting it done from them was a
+        challenge as they already had their own tasks, after repeated
+        efforts they started doing this task as well. The ADS setup
+        was a challenge for all of them but it was resolved
+        eventually.
 
+        |--------+---------+----------------|
+        | Labels | Meaning | Scores awarded |
+        |--------+---------+----------------|
+        | S1     |         |                |
+        |--------+---------+----------------|
+        | S2     |         |                |
+        |--------+---------+----------------|
+        | S3     |         |                |
+        |--------+---------+----------------|
+        | S4     |         |                |
+        |--------+---------+----------------|
+        | S5     |         |                |
+        |--------+---------+----------------|
+ 
+      + Week 3 : Here came the milestone week where the fixed issues
+        with 2 validations were being finally validated by the IIIT
+        interns also and we could start scoring the outreach interns
+        based on that. We scored all the interns and it was done based
+        on weekly performance of each student. The leaderboard was
+        ready and we publishes it on slack this time with the cash
+        prizes being given to the top performing students.
 
+        This was the most fruitful week in terms of maximum number of
+        S5, S4, S3 issues were fixed by this time and we were only
+        left with the high severity issues which were related to
+        simulations. This also brought to our notice the
+        underperformers as well the strategy of students in this whole
+        game. The Sreenidhi interns devised a way that they didn't do
+        much fixes but they only focussed on validating others
+        fixes. Validations also fetched points to everyone. There were
+        penalties awarded to the wrong validations also.
+
+        |-------------------+-----------------|
+        | Validations       | Points &        |
+        |                   | Penalties       |
+        |-------------------+-----------------|
+        | First validation  | +1 for correct  |
+        |                   | -1 for wrong    |
+        |-------------------+-----------------|
+        | Second validation | +1 for correct, |
+        |                   | -2 for wrong    |
+        |-------------------+-----------------|
+        | Final validation  | +1 for correct, |
+        |                   | -3 for wrong    |
+        |-------------------+-----------------|
+        
+      + Week 4 : The process was ongoing for another week but we
+        didn't see any fixes during this week. This time when they
+        came for the weekly review, we had a session on shell
+        scripting for them. Sarika highlighted the problem where most
+        of her fixed issues were still waiting for the 2nd
+        validation. At this point of time we realised that since the
+        vasavi interns are in majority, getting the second validation
+        from other college interns is indeed a challenge for them. It
+        was noted and we allowed them to have 2nd validator from the
+        same college from this point onwards. No cash award could be
+        given for this week as well as we were waiting for the final
+        validations by the IIIT interns.
+      + Week 5 : This was the most busiest week for all of us as the
+        final validations were still in progress by the IIIT
+        interns. On the last day (13th July) all the interns came for
+        the results and they were announced along with the cash prizes
+        for overall top performer, top fixers and top validators. We
+        tried to acknowledge all the interns in terms of prizes who
+        stood out during the whole journey.
+
+        |--------+------------------------|
+        | Sl no. | Students who stood out |
+        |--------+------------------------|
+        |      1 | Saiteja Kura, Vasavi   |
+        |--------+------------------------|
+        |      2 | Aakarsh, Vasavi        |
+        |--------+------------------------|
+        |      3 | Sarika, Vasavi         |
+        |--------+------------------------|
+        |      4 | Varsha Reddy, Vasavi   |
+        |--------+------------------------|
+        |      5 | Rajadattu, Sreenidhi   |
+        |--------+------------------------|
+        
 
 ** Summary & Opinions 
-  Overall the internship has been fruitful with proof of
-  concept for experiment development established. There are
-  a lot of wrinkles ( experiment artifacts, renderer and
-  analytics ) that need to be ironed out which can be done
-  before the start of 2018 winter internship program.
+  Overall the internship has been fruitful with proof of concept for
+  outreach NC engagement along with improvement in the existing
+  labs. There are a lot of wrinkles ( duplicacy and plagiarism
+  detection ,validation process, automated scoring and labelling )
+  that need to be ironed out which can be done before the start of
+  next outreach internship program.
+
+  Final leaderboard along with number of S1,S2,S3,S4 and S5 bugs fixed
+  overall is given below :
+  
+
+  Table from Mrudhvika
   
   Testimonials from the students : 
 
-1.  " I would rate it slightly above average. I found it too
-    dragged out in the beginning but too consisted towards
-    the end and it could have been better spread
-    out. However I learnt the importance of pedagogy and
-    learned the importance of proper documentation. "
-
-2.  " Overall this internship was a great experience for
-    me. I am really thankful i was a part of VLEAD for the
-    summer. I feel much more confident now about my coding
-    skills and know that i can take up challenges and
-    present my work confidently to people. I had the
-    opportunity to interact with my peers and mentors and
-    present and defend my work several times. I am fluent
-    with the entire cycle of software production
-    now. Looking back two months i realize how much i have
-    learnt and am happy to have spent a fruitful summer
-    building a virtual lab for MHRD which can actually be
-    put to production and used by students across."
-
-3.  " This program is really helpful to explore and learning
-    by interacting with different peoples.I really Enjoyed
-    the process and making the design artifact and learning
-    new tools here."
-
-4.  " It was an amazing experience while working as an
-    intern, I got to know a lot of stuff like literate
-    programming, how to write proper docs, my
-    self-confidence increased."
-
-5.  " No need of dividing experiments into groups of
-    two. Cause in most of the times,only one person did the
-    whole experiment.Because once someone starts working on
-    something,partner wasn't able to understand.And one
-    person can definitely finish one experiment on his own
-    if they follow proper guidelines from the beginning."
-
-6. " More interaction between the back-end development and
-   the interns who are only developing the artifacts and
-   working on the virtual lab like a front-end project, if
-   we have been also involved to the back-end development
-   then we would have had a better grasp of hosting the
-   experiments in the end and also would have had a better
-   grasp and experience overall."
-
-7. " I think more frequent discussions between the interns
-   and with mentors would have been better to keep track of
-   what everyone is doing and stay in sink. "
-
-8. " The introduction to the DevOps field is what i feel
-   that has been more useful and interesting the
-   possibilities that it opens up and the easeness that it
-   allows to make development with minimal time and maximum
-   usage of the resources available at hand."
-
-
- 
