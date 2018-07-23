@@ -1,0 +1,48 @@
+#+Title: Virtual Labs Outreach Internship Model 
+#+Date: [2018-07-23 Mon]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+* Introduction
+  This document outlines the model for Virtual Labs Outreach
+  Internship at VLEAD, IIIT Hyderabad. The objective of the internship
+  is to improve the existing Virtual Labs of IIIT H as well as engage
+  the Nodal Centers in the outreach process. 
+
+* The process
+  We would offer a 6-8 weeks of internship program for the selected
+  students to accomplish the same. The plan is to hire around 20-30
+  interns based on their [[https://github.com/vlead/2018-summer-outreach-internship/blob/develop/src/intern-selection.org][screening and selection process]]. The entire
+  program is divided into 2 phases :
+
+  + Phase 1 : This includes call for the participation of students
+    from different nodal centers and other colleges. We would provide
+    them with a Google Form link to apply for the program with some
+    basic information and their GitLab handles. The process is
+    elaborated [[https://github.com/vlead/2018-summer-outreach-internship/blob/develop/src/intern-selection.org][here]].
+
+    They would be given a timeline to raise as many issues/bugs as
+    possible from the [[http://vlab.co.in/institute_detail.php?ins=008][IIIT Hyderabad labs]]. Based on the quality of
+    issues raised, students would be selected for the internship
+    program.
+
+  + Phase 2 : This phase includes the induction program and training
+    material in the form of videos for the selected interns. The
+    training videos are created for GitHub, Javascript, Java and
+    Bash/Shell scripting by the VLEAD outreach team mentors. Once the
+    training period is over which is expected to be 4-5 days, interns
+    are expected to work remotely in fixing the issues/bugs raised by
+    them in phase 1 and attend a review meeting every week with the
+    VLEAD team at IIIT Hyderabad campus for any problems and
+    challenges.
+
+  The entire internship is planned for a duration of 5-6 weeks
+  inclusive of both the phases. The start date would be decided based
+  on the semester exam schedules for the different colleges. We are
+  planning to conduct this entire program during the semester brakes
+  as the students can work remotely and successfully complete their
+  internship.
+   
+
+
