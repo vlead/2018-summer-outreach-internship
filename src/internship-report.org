@@ -321,6 +321,25 @@
    |     15 | Rajeshwari   |  0 |  0 |  0 |  0 |  0 |     0 |          0 |     0 | Fail         |
    |--------+--------------+----+----+----+----+----+-------+------------+-------+--------------|
    
-
-   Testimonials from the students : 
-
+*** Testimonials from the students :
+   
+    + It was a really good program getting to work with IIITH was
+      great. The approach of the vlead team was commendable. It feels
+      great to know that we have contributed to this initiative of
+      MHRD. Overall, this was a worthwile experience.
+    + Good. Its a very good initiative. People from different colleges
+      and professional backgrounds are given chance to participate and
+      enhance there ability.
+    + The overall program to be precise is amazing. I would give it 9
+      out of 10 rating. The only thing that didn¡¯t work this time is
+      the weekly leaderboard. And one more thing to be added is that,
+      if a new technology is introduced, it would be more productive
+      for the students if a lecture is arranged on that. The Vlead
+      team was extremely helpful and made clear every doubt we
+      raised. Communication through slack was great. Overall this
+      intern helped me gain effective practical knowledge.
+    + Good opportunity to step outside from the college and learn how
+      to apply and gain experience.
+    + The program was well implemented and inspired me to be a part of
+      such talented teams.
+  
