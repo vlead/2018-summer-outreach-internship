@@ -1,0 +1,40 @@
+#+TITLE: Outreach Intership Program reminder email
+#+AUTHOR: VLEAD
+#+DATE: [2018-05-17 Thurs]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Draft e-mail for reminder of issue raising activity in Virtual Labs Outreach Internship Program
+
+Dear Student,
+
+We have observed that you have only created the GitLab account but
+didn't create the project under it adding us as a member in it.
+
+Please follow the below steps :
+
+1) Login to your GitLab profile and click on New Projects.
+2) Name your project as ”virtual-labs-internship-<your name>”.
+3) Set the ‘Visibility Level’ as Private.
+4) Click on ‘Create Project’.
+5) Click on “Settings” from slider bar that is on the left side of
+   your web page. Then click on “Members” option from the settings
+   menu.
+6) Select ”outreach-internship” in “Select members to invite” section.
+7) Select “master” for “Choose a role permission” field.
+8) Click on ”Add to project”.
+9) After following the above steps, please start raising the issues as
+   detailed here. Top 10 students would be awarded with prizes based
+   on the gravity of issues (severity level, functionality defects
+   identified, proposal for enhancements and logical flaws)
+   identified/logged.
+
+Hurry up guys and grab this opportunity!!! Only 15 days to go. 
+
+For any clarifications, write to us at internship@vlabs.ac.in
+
+Regards
+Virtual Labs Team
+IIIT Hyderabad

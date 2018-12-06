@@ -1,0 +1,56 @@
+#+TITLE: Draft mails for the Outreach Internship Program
+#+AUTHOR: VLEAD
+#+DATE: [2018-05-17 Thurs]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document contains all the draft mails which are sent to the
+  students as well as Nodal Coordinators for the outreach intership
+  program. These mails keep up the enthusiasm amongst the potential
+  participants and also give us the idea on the progress of the
+  internship program.
+
+* Motivation
+  This internship program is conducted to motivate students
+  from the Nodal center colleges to contribute towards this
+  mission mode project run by MHRD. Students would be
+  contributing towards the open source development community
+  as well as improve the Virtual Labs. The motivation for us
+  behind conducting such internship program is to do
+  outreach activities for the Virtual Labs and improve its
+  reach to as many colleges as possible.
+
+* Draft Mails 
+  + [[./initial-draft-mail.org][Initial Draft mail to call for interns]] and [[./initial-summer-internship-poster.jpeg][Initial Poster]]
+
+  + [[./extended-deadline-draft-mail.org][Draft mail for the extended deadline of call for interns]] and [[./extended-deadline-internship-poster.jpeg][Extended Deadline Poster]]
+
+  + [[./reminder-mail1.org][Draft mail for the reminder of deadline for Application forms]]
+
+  + [[ 	reminder-mail-for-issue-raising.org][Draft mail for intermediate communication related to the ongoing issue raising activity]]
+
+  + [[][Draft mail for the selected candidates with bootcamp details]]
+
+* Fallback plans
+** A. Calling up MSIT students
+   In case we do not the expected response from the college students
+   or they do not raise issues which are valid enough for the next
+   phase of the program or they are not capable to resolve the issues
+   raised, we would try and call MSIT students housed at IIITH itself
+   and provide the same perks and advantages to make this program a
+   success.
+** B. Calling up IIITH students
+   In case Plan A also doesn's work out due to unforeseen constraints,
+   we would connect with IIITH students itself for this internship
+   activity.
+
+* Conclusion
+  Based on the issues raised the students would be given an
+  opportunity to work as an intern in virtual labs and also contribute
+  in a mission mode MHRD project. The labs would be improved as part
+  of this program giving us an edge in outreach programs by connecting
+  to the different Nodal Coordinators across the state.
+  

@@ -1,0 +1,55 @@
+#+TITLE: Phase 1 Validation for Outreach Internship Program
+#+AUTHOR: VLEAD
+#+DATE: [2018-05-17 Thurs]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document details the phase 1 validation process for the
+  outreach intership program. This validation would be the criteria
+  for the selection of the students who have raised issues and
+  submitted the google application form.
+
+* Motivation
+  This internship program is conducted to motivate students
+  from the Nodal center colleges to contribute towards this
+  mission mode project run by MHRD. Students would be
+  contributing towards the open source development community
+  as well as improve the Virtual Labs. The motivation for us
+  behind conducting such internship program is to do
+  outreach activities for the Virtual Labs and improve its
+  reach to as many colleges as possible.
+
+* Process
+** Phase 1 - Validation process by VLEAD team (selection of interns)
+   [[./docs/phase1-validation.org][Link for the document]]
+
+* Logistics
+** Prize Money
+   Top 10 students would be awarded with prizes based on the gravity
+   of issues (severity level, functionality defects identified,
+   proposal for enhancements and logical flaws) identified/logged
+   after VLEAD team validates and review.
+
+* Fallback plans
+** A. Calling up MSIT students
+   In case we do not the expected response from the college students
+   or they do not raise issues which are valid enough for the next
+   phase of the program or they are not capable to resolve the issues
+   raised, we would try and call MSIT students housed at IIITH itself
+   and provide the same perks and advantages to make this program a
+   success.
+** B. Calling up IIITH students
+   In case Plan A also doesn's work out due to unforeseen constraints,
+   we would connect with IIITH students itself for this internship
+   activity.
+
+* Conclusion
+  Based on the issues raised the students would be given an
+  opportunity to work as an intern in virtual labs and also contribute
+  in a mission mode MHRD project. The labs would be improved as part
+  of this program giving us an edge in outreach programs by connecting
+  to the different Nodal Coordinators across the state.
+  

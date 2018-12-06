@@ -1,0 +1,42 @@
+1. Write a JavaScript program to find the area of a triangle where lengths of the three of its sides are 5, 6, 7.
+2. Write a JavaScript program to determine whether a given year is a leap year in the Gregorian calendar.
+3. Write a JavaScript program to find 1st January is being a Sunday between 2014 and 2050.
+4. Write a JavaScript program where the program takes a random integer between 1 to 10, the user is then prompted to input a guess number. If the user input matches with guess number, the program will display a message "Good Work" otherwise display a message "Not matched".
+5. Write a JavaScript exercise to get the extension of a filename.
+6. Write a JavaScript function that reverse a number.
+7. Write a JavaScript function that generates all combinations of a string.
+8. Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in upper case.
+9. Write a JavaScript function that returns array elements larger than a number.
+10. Write a JavaScript function to get the first element of an array. Passing a parameter 'n' will return the first 'n' elements of the array.
+	Test Data :
+	console.log(first([7, 9, 0, -2]));
+	console.log(first([],3));
+	console.log(first([7, 9, 0, -2],3));
+	console.log(first([7, 9, 0, -2],6));
+	console.log(first([7, 9, 0, -2],-3));
+	Expected Output :
+	7
+	[]
+	[7, 9, 0]
+	[7, 9, 0, -2]
+	[] 
+11. Write a JavaScript function to split a string and convert it into an array of words.
+	Test Data :
+	console.log(string_to_array("Outreach Internship"));
+	["Outreach", "Internship"]
+12. Write a JavaScript function to add rows to a table.
+	Sample HTML file :
+
+	<!DOCTYPE html>
+	<html><head>
+	<meta charset=utf-8 />
+	<title>Insert row in a table - w3resource</title>
+	</head><body>
+	<table id="sampleTable" border="1">
+	<tr><td>Row1 cell1</td>
+	<td>Row1 cell2</td></tr>
+	<tr><td>Row2 cell1</td>
+	<td>Row2 cell2</td></tr>
+	</table><br>
+	<input type="button" onclick="insert_Row()" value="Insert row"> 
+	</body></html>

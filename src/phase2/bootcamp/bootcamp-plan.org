@@ -1,0 +1,97 @@
+#+TITLE: Bootcamp plan
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-23 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes the bootcamp plan for selected students at
+  IIITH. VLEAD would be conducting the 3 days bootcamp for the
+  students to onboard them for the next 3-4 weeks of the internship
+  program. They would be trained on the development/testing
+  environments along with the technological dependencies required for
+  the labs.
+* Venue, Date and Time
+  - Venue : IIIT-Hyderabad
+  - Start Date : 06-06-2018
+  - End Date : 09-06-2018
+  - Time : 09:00 AM to 06:00 PM
+* Participants
+  - Shortlisted candidates from the [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org#phase-1---issuebug-logging-process-selection-of-interns][Phase 1/Validation process]]
+* Goals
+  - Understand and follow the development process.
+  - Fixing the issues/bugs/defects which were found during
+    [[https://github.com/vlead/outreach-internship-program/blob/develop/src/index.org#phase-1---issuebug-logging-process-selection-of-interns][Phase 1/Validation process]]
+* Integration Document
+  [[][Link for document]]
+* Plan of action
+  - Bugathon
+    09:00 A.M. - Introduction to Virtual Labs and recalling
+    the steps to be followed on gitlab.
+    11:00 A.M. - Tea break
+    11:15 A.M. - Raising issues
+    01:00 P.M. - Lunch break
+    02:00 P.M. - Announcing Leaderboard
+    02:30 P.M. - Raising Issues
+    05:30 P.M. - Announcing Winners
+    06:00 P.M. - Announcing internship students
+ 
+  - Day 1
+    09:00 AM - Welcome address /Introduction
+    10:30 AM - A brief description about the github and the
+    process of use and make a commit after the code fix is
+    done
+    11:00 P.M. - Tea break.
+    01:00 P.M. - LUNCH.
+    02:00 P.M. - Basics and revision of Java.
+    04:00 P.M. - Tea break.
+    06:00 P.M. - Assignment on Java.
+    
+    Reference : Github link for the lab code repositories
+    Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad labs code
+    repositories for testing. The 20 IIIT hyderabad labs
+    which needs to be tested would have a naming convention
+    of *<labname>-iiith* 
+    
+  - Day 2 
+    09:00 A.M. - Revision of JavaScript and fixing the bugs.
+    11:15 P.M. - Tea break.
+    11:30 A.M. - A brief description about the process of
+    resolving the issues.
+    01:00 P.M. - LUNCH.
+    02:00 P.M. - Explaining the way to resolve the issue.
+    04:00 P.M. - Tea break.
+    06:00 P.M. - Assignment in resolving issues.
+ 
+  - Day 3
+    10:00 A.M. - Any assistance needed in resolving bugs.
+    11:15 A.M. - Tea break
+    11:30 A.M. - Resolving bugs.
+    01:00 P.M. - LUNCH
+    02:00 P.M. - Steps to create a pull request in git
+    04:00 P.M. - A quick recap for the bug fixing process.
+    06:00 P.M. - Concluding boot camp. 
+
+* Prerequisites for the participants
+  - OS - Ubuntu 14.04
+  - Setup git 
+* Post-workshop Activities
+  Refer the document for [[][Document]]
+* Evaluation Criteria 
+  Based on the severity level of the issue, points would be
+  given. 
+  - S1 issue is awarded with 5 Points
+  - S2 issue is awarded with 3 Points
+  - S3 issue is awarded with 1 Point
+* Contact Information
+  Please contact the VLEAD Team at internship@vlabs.ac.in
+* Conclusion
+  After the 3 days boot camp, the students would pick the 
+  issues and start resolving them.
+  
+
+
+
+

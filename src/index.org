@@ -1,4 +1,4 @@
-#+TITLE: Manual for internship activities
+#+TITLE: Story Board for Outreach Internship Program
 #+AUTHOR: VLEAD
 #+DATE: [2018-04-12 Mon]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -7,7 +7,8 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document describes the detailed steps to be followed
+  This document details to story board along with summary
+  and timelines for the outreach intership program.
   by the students to participate in the Virtual Labs
   internship program.
 
@@ -17,165 +18,120 @@
   mission mode project run by MHRD. Students would be
   contributing towards the open source development community
   as well as improve the Virtual Labs. The motivation for us
-  behind conducting such intenrship program is to do
+  behind conducting such internship program is to do
   outreach activities for the Virtual Labs and improve its
   reach to as many colleges as possible.
 
-* Issue/Bug logging process
-  The below sections describe the entire process of raising
-  lab issues and what template needs to be followed for the
-  same by the interested students.
+* Summary at a glance
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ | S.no | Activity                              | Timeline             | Remarks/link                                 | Status  |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   1. | Mail to NC                            | 20th April, 2018     | Initial mail for participation               | Done    |
+ |      |                                       |                      | which would be forwarded to all              |         |
+ |      |                                       |                      | students by the NCs                          |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   2. | Deadline extension mail               | 26th April, 2018     | Based on the inputs from the NCs regarding   | Done    |
+ |      |                                       |                      | their exam ending schedules, dates have been |         |
+ |      |                                       |                      | extended                                     |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   2. | Reminder emails to Ncs for forwarding | 1-4th May, 2018 &    | 2 reminder emails to keep up enthusiasm      | Done    |
+ |      | the mails in case they haven't        | 16-17th May 2018     | amongst the NCs and their students           |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   3. | Deadline for                          | 30th May, 2018       | The forms would have the GitLab              | Done    |
+ |      | filling up application forms          | 8:00 A.M. IST        | handle of the students where they            |         |
+ |      |                                       |                      | have logged issues                           |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   4. | Bug-a-thon                            | 5th June, 2018       | Issues will be logged by the students based  | Done    |
+ |      |                                       |                      | on that prizes/cash award will be given      |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   5. | Validation and review of the logged   | 5th  June, 2018      | Validation document to help in               | Done    |
+ |      | defects by VLEAD team                 |                      | better understanding of the                  |         |
+ |      |                                       |                      | parameters and methods in selecting          |         |
+ |      |                                       |                      | the candidates for the internship            |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   6. | Mail to the selected students for     | 5st June, 2018       | based on the issues reviewed, students       | Done    |
+ |      | the internship and bootcamp (details  |                      | would be selected for internship and         |         |
+ |      | for bootcamp)                         |                      | bootcamp                                     |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   7. | Bootcamp at IIIT H                    | 6th-8th June, 2018   | 3 days bootcamp session at IIITH to be       | Done    |
+ |      |                                       |                      | conducted by VLEAD team, bootcamp            |         |
+ |      |                                       |                      | detailed document would provide the          |         |
+ |      |                                       |                      | insights into the 3 day program              |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   8. | Weekly review process for resolved    | 15th June - 13 July, | resolving issues, testing them on local      | Done    |
+ |      | issues by VLEAD team                  | 2018                 | environments, weekly review by VLEAD team,   |         |
+ |      |                                       |                      | testing & merging the approved issues        |         |
+ |      |                                       |                      | with develop (by VLEAD team),                |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |   9. | 1st week review                       | 15th June, 2018      | Setting up ubuntu, clarifying doubts on git, | Done    |
+ |      |                                       |                      | creating pull request and other queries      |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  10. | 2nd Week review                       | 22nd June, 2018      | Presentation on Shell scripting, bash and    | Done    |
+ |      |                                       |                      | other queries                                |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  11. | 3rd Week review                       | 29th June, 2018      | Status of issues resolved, distributing      | Pending |
+ |      |                                       |                      | prize money                                  |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  12. | 4th Week review                       | 06th July, 2018      | Presentation on Angular                      | Pending |
+ |      |                                       |                      |                                              |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
+ |  11. | Final review and prizes               | 2nd-13th July, 2018  | pushing the changes in production,           | Pending |
+ |      |                                       |                      | result display, prize/certificate            |         |
+ |      |                                       |                      | distribution                                 |         |
+ |------+---------------------------------------+----------------------+----------------------------------------------+---------|
 
-** Setup of testing environment 
-  [[https://vlabs-about.vlabs.ac.in/#sec-4][Click here]] and follow the document to setup the
-  development environment.
+* Presentation 
+  Please find the [[https://docs.google.com/presentation/d/e/2PACX-1vTFrGFqQntwqI1R5SeuAJOZOurBt72ZKbPEv98xgPWTRfg_Aak5J3-L7y9m82zL-v3N56dCfKeYyCz2/pub?start=false&loop=false&delayms=3000][presentation link]] for the entire process captured
+  and approved. This presentation has the initial dates when this
+  program was proposed to Choppella sir for approval. Later the dates
+  have been extended based on the examination schedules in different
+  Nodal Centers.
 
-** Steps to be followed by the students for raising issues
+* Process
+** [[./phase1][Phase 1]]
+** [[./phase2][Phase 2]] 
+* Logistics
+** Prize Money
+   + Phase 1 : Top 10 students would be awarded with prizes based on
+     the gravity of issues (severity level, functionality defects
+     identified, proposal for enhancements and logical flaws)
+     identified/logged after VLEAD team validates and review.
+   + Phase 2 : Based on the issues resolved and the total points
+     attained (S1:5, S2:3, S3:1), we can have a leaderboard depicting
+     all the interns rankwise and award cash prizes/vouchers to the
+     top 3 interns every week or so. At the end of the program, every
+     intern would at least earn a certificate and others who performed
+     well would also earn cash prizes along with the certificates.
 
-   An interested student needs to test the IIIT Hyderabad labs (20
-   labs). The testing process would be to carried out to find the
-   problems with the labs. When any such issue is identified.
+** Support during bootcamp
+   + IIITH doesn't provide any accomodation facilities during any
+     phases of the entire program. Students have to arrange their own
+     accomodations in case of outside residentials. NCs have put
+     forward an offer of housing the students during phase 2 of the
+     program but this is not yet confirmed.
+   + Food arrangements would be available based on the payment basis
+     in the campus messes/canteens. Lunch would be provided during the
+     3 days bootcamp from our side.
+   + The weekly review for the interns at IIITH would be scheduled on
+     every Wednesday/Thursday from 10:00 a.m. till 4:00 p.m.
 
-*** Steps to create a new github repository
-   1) Login to your github profile and click on repositories
-      tab
-   2) Click New button(green coloured) for creating new
-      repository.
-   3) Type Repository name as "virtual-labs-internship"
-   3) Add a description of the repository(optional).
-   4) choose "Public".
-   5) Select Initialize this repository with a README. 
-   6) Click Create repository.
-*** Parameters to be considered while raising the issues
-   a. Operational defects : Broken links, error pages,
-   content not visible, buttons not working and any others.
+* Fallback plans
+** A. Calling up MSIT students
+   In case we do not the expected response from the college students
+   or they do not raise issues which are valid enough for the next
+   phase of the program or they are not capable to resolve the issues
+   raised, we would try and call MSIT students housed at IIITH itself
+   and provide the same perks and advantages to make this program a
+   success.
+** B. Calling up IIITH students
+   In case Plan A also doesn's work out due to unforeseen constraints,
+   we would connect with IIITH students itself for this internship
+   activity.
 
-   b. Functional defects : Provided features are not working
-   as per the expectations.
-
-   c. Simulations defects :
-     - Working Status
-     - Quality of simulator
-     - Analysis of output
-     - Simulations have logical flaws
-
-   d. Enhancements: Quality and clarity of the content
-   
-   e. New content suggested by the students are also
-   welcomed.
-   
-   f. Every defect/bug logged must follow the SMART
-   ideology - Specific, Measurable, Attainable, Realistic
-   and Timely
-
-*** Naming convention to be followed while creating issues
-    bug_<lab_name>_<in which sub section of experiment the
-    bug is detected> for example:
-    bug_problem-solving-simulation
-
-*** Description of issue includes the following
-    - Defect description
-    - Expected result
-    - Actual result
-    - Screen shot
-  
-** Labels and severity
-    - Lab name : This label indicates that in which lab the
-    A issue would contain a brief description and a
-    hyper-link to its corresponding test case file. It could
-    also contain screen shots for easier
-    comprehension. Every defect would contain labels to
-    describe its state, severity and category. The following
-    are the attributes that would be attached to each
-    defect: defect is detected.
-
-    - Experiment name : This label indicates that in which 
-    experiment the defect is detected.
-
-    - Sections : In which of the section like introduction, 
-    theory, simulation, quiz the issue is detected.
-
-    - Category : At any given time a issue should only have
-    one of the categories like Content, UI, functionality.
-    
-    - Severity : At any given time a issue should only have
-    one of the severity levels as described below. To change
-    the severity of a issue, the existing label of the issue
-    should be unchecked and the new severity label should be
-    checked.
-
-      1) S1 : This label indicates that the issue affects
-      critical functionality or critical data. Example:
-      Prevention of user interaction, corruption of
-      database, unfaithful to the semantics of interaction
-      and redirection to the error page.
-
-      2) S2 : This label indicates that the issues affects
-      major functionality or major data. It could have
-      broken links and a field view being inconsistent with
-      its specifications. Example: In a form if there is a
-      field which is editable but it is not allowing the
-      user to edit it.
-
-      3) S3 : This label indicates that the issue affects
-      minor functionality or non-critical data. Example:
-      Visual imperfections like spelling and grammar,
-      alignment, inconsistent terminology, colour, shapes
-      and fonts(css properties).
-
-    - Status : At any given time a issue should only be in
-    one of the below described states. To change the state
-    of a defect, the current status label of the defect
-    should be unchecked and the new status label should be
-    checked.
-
-    1) Open : This label indicates that when a issue is
-    logged and posted for the first time, it would be
-    labelled as 'Open'.
-
-    2) In Progress : This label indicates that Open issues
-    while being worked upon by the developer would be
-    labelled as 'InProgress'.
-
-    3) Fixed : This label indicates that the issue has been
-    fixed by the developers in their lab GitHub repository
-    but a release has not been for the hosting. Only the
-    developers can mark the issue as fixed. They should
-    change the status to resolved and include it in their
-    release notes when they make a release containing these
-    fixes. Test engineers would test only resolved and open
-    defects.
-
-    4) Resolved : This label indicates that when 
-    developers make necessary code changes and verifies the
-    changes then they can label the defect as
-    ¡®Resolved¡¯. The developers as well as the lab owners can
-    mark the issue as Resolved.
-
-    5) Reopen : This label indicates that if a resolved
-    defect surfaces during testing, the test engineer would
-    label it as 'Reopen'.
-
-    6) Closed : This label indicates that Resolved defects
-    would be labelled as 'Closed' by the test engineers
-    after they pass the tests. This label means that the
-    defect is resolved, tested and approved.
-
-** List of issues that will not be considered as valid
-   - Full Screen button on experiment simulations doesnt
-     open in the new tab, instead we have to copy the URL in
-     a new browser window in order to open the
-     simulations. This is a known issue to us.
-   - 
-*** Time limit for raising issues
-   The logging defects by students will be from 30th April
-   onwards till 5th May , 2018
-*** Perks and Prize money
-  Top students will be awarded with cash award and all the
-  students would be given a participation certificate.
-* Validation of issues
-  
 * Conclusion
-  Based on the bugs raised the students would be given an
-  opportunity to work as a intern in virtual labs.
+  Based on the issues raised the students would be given an
+  opportunity to work as an intern in virtual labs and also contribute
+  in a mission mode MHRD project. The labs would be improved as part
+  of this program giving us an edge in outreach programs by connecting
+  to the different Nodal Coordinators across the state.
   

@@ -1,0 +1,45 @@
+#+TITLE: Outreach Intership Program 
+#+AUTHOR: VLEAD
+#+DATE: [2018-05-08 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Draft e-mail for reminder of Virtual Labs Outreach Internship Program
+
+Dear Student,
+
+We have received your response from the Application Form ​. We are ​
+delighted to see your interest in the Virtual Labs Internship
+Program. Please go through the following points to avoid any mistakes
+in the application process :
+
+1) Some students have mentioned "Good" in the discipline field, we
+   asked for the discipline of study i.e. CSE, ECE etc. If you have
+   also done the same mistake, please resubmit the form after
+   correcting it.
+
+2) If you have written "yes" or anything else in Resume link and
+   GitLab link fields, please create the accounts and submit the
+   correct links. Without the correct GitLab and resume links, we
+   won't be able to ​shortlist​ the students for the internship program.
+
+3) Most importantly, I hope you have read the attached student-mail
+   document which was sent along with the Internship mail by your
+   concerned college faculty. The process for shortlisting is based on
+   the issues logged by you for the IIIT-Hyderabad labs. Please go
+   through this document for better clarity. I hope you are following
+   the process for logging the bugs.
+
+If you have done any of the above mistakes in submitting the
+applications, please correct them and resubmit the forms before the
+deadlines.
+
+All the Best!!!
+
+For any clarifications, write to us at internship@vlabs.ac.in
+
+Regards
+Virtual Labs Team
+IIIT Hyderabad 
